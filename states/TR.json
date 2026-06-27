@@ -1,0 +1,71 @@
+{
+  "state_code": "TR",
+  "state": "Tripura",
+  "count": 8,
+  "codes": [
+    {
+      "code": "TR-01",
+      "state_code": "TR",
+      "state": "Tripura",
+      "office": "Agartala",
+      "district": "West Tripura",
+      "notes": ""
+    },
+    {
+      "code": "TR-02",
+      "state_code": "TR",
+      "state": "Tripura",
+      "office": "Kailasahar",
+      "district": "Unakoti",
+      "notes": ""
+    },
+    {
+      "code": "TR-03",
+      "state_code": "TR",
+      "state": "Tripura",
+      "office": "Udaipur",
+      "district": "Gomati",
+      "notes": ""
+    },
+    {
+      "code": "TR-04",
+      "state_code": "TR",
+      "state": "Tripura",
+      "office": "Ambassa",
+      "district": "Dhalai",
+      "notes": ""
+    },
+    {
+      "code": "TR-05",
+      "state_code": "TR",
+      "state": "Tripura",
+      "office": "Dharmanagar",
+      "district": "North Tripura",
+      "notes": ""
+    },
+    {
+      "code": "TR-06",
+      "state_code": "TR",
+      "state": "Tripura",
+      "office": "Teliamura",
+      "district": "Khowai",
+      "notes": ""
+    },
+    {
+      "code": "TR-07",
+      "state_code": "TR",
+      "state": "Tripura",
+      "office": "Bishramganj",
+      "district": "Sipahijala",
+      "notes": ""
+    },
+    {
+      "code": "TR-08",
+      "state_code": "TR",
+      "state": "Tripura",
+      "office": "Santirbazar",
+      "district": "South Tripura",
+      "notes": ""
+    }
+  ]
+}

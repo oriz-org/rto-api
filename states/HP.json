@@ -1,0 +1,799 @@
+{
+  "state_code": "HP",
+  "state": "Himachal Pradesh",
+  "count": 99,
+  "codes": [
+    {
+      "code": "HP-01",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Statewide",
+      "district": "Statewide",
+      "notes": "Tourist buses & Taxis"
+    },
+    {
+      "code": "HP-02",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Statewide",
+      "district": "Statewide",
+      "notes": "Tourist buses & Taxis"
+    },
+    {
+      "code": "HP-03",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Shimla (Urban)",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-04",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kangra, Dharamsala",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-05",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Mandi",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-06",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Rampur Bushahr",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-07",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Shimla (Urban)",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-08",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Chaupal",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-09",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Theog",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-10",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Rohru",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-11",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Arki",
+      "district": "Solan",
+      "notes": ""
+    },
+    {
+      "code": "HP-12",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Nalagarh",
+      "district": "Solan",
+      "notes": ""
+    },
+    {
+      "code": "HP-13",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kandaghat",
+      "district": "Solan",
+      "notes": ""
+    },
+    {
+      "code": "HP-14",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Solan",
+      "district": "Solan",
+      "notes": ""
+    },
+    {
+      "code": "HP-15",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Parwanoo",
+      "district": "Solan",
+      "notes": ""
+    },
+    {
+      "code": "HP-16",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Rajgarh",
+      "district": "Sirmaur",
+      "notes": ""
+    },
+    {
+      "code": "HP-17",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Paonta Sahib",
+      "district": "Sirmaur",
+      "notes": ""
+    },
+    {
+      "code": "HP-18",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Nahan",
+      "district": "Sirmaur",
+      "notes": ""
+    },
+    {
+      "code": "HP-19",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Amb",
+      "district": "Una",
+      "notes": ""
+    },
+    {
+      "code": "HP-20",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Una",
+      "district": "Una",
+      "notes": ""
+    },
+    {
+      "code": "HP-21",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Barsar",
+      "district": "Hamirpur",
+      "notes": ""
+    },
+    {
+      "code": "HP-22",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Hamirpur",
+      "district": "Hamirpur",
+      "notes": ""
+    },
+    {
+      "code": "HP-23",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Ghumarwin",
+      "district": "Bilaspur",
+      "notes": ""
+    },
+    {
+      "code": "HP-24",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Bilaspur",
+      "district": "Bilaspur",
+      "notes": ""
+    },
+    {
+      "code": "HP-25",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kalpa",
+      "district": "Kinnaur",
+      "notes": ""
+    },
+    {
+      "code": "HP-26",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Nichar, Bhaba Nagar",
+      "district": "Kinnaur",
+      "notes": ""
+    },
+    {
+      "code": "HP-27",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Pooh",
+      "district": "Kinnaur",
+      "notes": ""
+    },
+    {
+      "code": "HP-28",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Sarkaghat",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-29",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Jogindernagar",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-30",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Karsog",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-31",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Sundernagar",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-32",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Gohar",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-33",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Mandi",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-34",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kullu",
+      "district": "Kullu",
+      "notes": ""
+    },
+    {
+      "code": "HP-35",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Anni",
+      "district": "Kullu",
+      "notes": ""
+    },
+    {
+      "code": "HP-36",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Dehra",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-37",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Palampur",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-38",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Nurpur",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-39",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Dharamshala",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-40",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kangra",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-41",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kaza",
+      "district": "Lahaul and Spiti",
+      "notes": ""
+    },
+    {
+      "code": "HP-42",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Keylong",
+      "district": "Lahaul and Spiti",
+      "notes": ""
+    },
+    {
+      "code": "HP-43",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Udaipur",
+      "district": "Lahaul and Spiti",
+      "notes": ""
+    },
+    {
+      "code": "HP-44",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Churah",
+      "district": "Chamba",
+      "notes": ""
+    },
+    {
+      "code": "HP-45",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Pangi",
+      "district": "Chamba",
+      "notes": ""
+    },
+    {
+      "code": "HP-46",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Bharmour",
+      "district": "Chamba",
+      "notes": ""
+    },
+    {
+      "code": "HP-47",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Dalhousie",
+      "district": "Chamba",
+      "notes": ""
+    },
+    {
+      "code": "HP-48",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Chamba",
+      "district": "Chamba",
+      "notes": ""
+    },
+    {
+      "code": "HP-49",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Banjar",
+      "district": "Kullu",
+      "notes": ""
+    },
+    {
+      "code": "HP-50",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Shimla",
+      "district": "Shimla",
+      "notes": "Auto-rickshaws"
+    },
+    {
+      "code": "HP-51",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Shimla (Rural)",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-52",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Shimla (Rural)",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-53",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Baijnath",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-54",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Jawali",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-55",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Nadaun",
+      "district": "Hamirpur",
+      "notes": ""
+    },
+    {
+      "code": "HP-56",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Jaisinghpur",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-57",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Chowari",
+      "district": "Chamba",
+      "notes": ""
+    },
+    {
+      "code": "HP-58",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Manali",
+      "district": "Kullu",
+      "notes": ""
+    },
+    {
+      "code": "HP-59",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Solan",
+      "district": "Solan",
+      "notes": ""
+    },
+    {
+      "code": "HP-60",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Hamirpur",
+      "district": "Hamirpur",
+      "notes": ""
+    },
+    {
+      "code": "HP-61",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kullu",
+      "district": "Kullu",
+      "notes": ""
+    },
+    {
+      "code": "HP-62",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Shimla",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-63",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Shimla",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-64",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Solan",
+      "district": "Solan",
+      "notes": ""
+    },
+    {
+      "code": "HP-65",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Mandi",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-66",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kullu",
+      "district": "Kullu",
+      "notes": ""
+    },
+    {
+      "code": "HP-67",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Hamirpur",
+      "district": "Hamirpur",
+      "notes": ""
+    },
+    {
+      "code": "HP-68",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kangra, Dharmsala",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-69",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Bilaspur",
+      "district": "Bilaspur",
+      "notes": ""
+    },
+    {
+      "code": "HP-70",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Bilaspur",
+      "district": "Bilaspur",
+      "notes": ""
+    },
+    {
+      "code": "HP-71",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Nahan",
+      "district": "Sirmaur",
+      "notes": ""
+    },
+    {
+      "code": "HP-72",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Una",
+      "district": "Una",
+      "notes": ""
+    },
+    {
+      "code": "HP-73",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Chamba",
+      "district": "Chamba",
+      "notes": ""
+    },
+    {
+      "code": "HP-74",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Bhoranj",
+      "district": "Hamirpur",
+      "notes": ""
+    },
+    {
+      "code": "HP-75",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Jubbal",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-76",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Paddhar",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-77",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Dodra Kawar",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-78",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Bangana",
+      "district": "Una",
+      "notes": ""
+    },
+    {
+      "code": "HP-79",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Sangrah",
+      "district": "Sirmaur",
+      "notes": ""
+    },
+    {
+      "code": "HP-80",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Haroli",
+      "district": "Una",
+      "notes": ""
+    },
+    {
+      "code": "HP-81",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Salooni",
+      "district": "Chamba",
+      "notes": ""
+    },
+    {
+      "code": "HP-82",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Balh",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-83",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Jawalaji",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-84",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Sujanpur Tihra",
+      "district": "Hamirpur",
+      "notes": ""
+    },
+    {
+      "code": "HP-85",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Shillai",
+      "district": "Sirmaur",
+      "notes": ""
+    },
+    {
+      "code": "HP-86",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Dharampur",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-87",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Janjehli",
+      "district": "Mandi",
+      "notes": ""
+    },
+    {
+      "code": "HP-88",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Fatehpur",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-89",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Jhandutta",
+      "district": "Bilaspur",
+      "notes": ""
+    },
+    {
+      "code": "HP-90",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Shahpur",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-91",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Naina Devi, Swarghat",
+      "district": "Bilaspur",
+      "notes": ""
+    },
+    {
+      "code": "HP-92",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Rampur Bushahr",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-93",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Nalagarh",
+      "district": "Solan",
+      "notes": ""
+    },
+    {
+      "code": "HP-94",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Nagrota Bagwan",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-95",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kumarsain",
+      "district": "Shimla",
+      "notes": ""
+    },
+    {
+      "code": "HP-96",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Dheera",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-97",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Indora",
+      "district": "Kangra",
+      "notes": ""
+    },
+    {
+      "code": "HP-98",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kasauli",
+      "district": "Solan",
+      "notes": ""
+    },
+    {
+      "code": "HP-99",
+      "state_code": "HP",
+      "state": "Himachal Pradesh",
+      "office": "Kotkhai",
+      "district": "Shimla",
+      "notes": ""
+    }
+  ]
+}

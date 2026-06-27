@@ -1,0 +1,71 @@
+{
+  "state_code": "SK",
+  "state": "Sikkim",
+  "count": 8,
+  "codes": [
+    {
+      "code": "SK-01",
+      "state_code": "SK",
+      "state": "Sikkim",
+      "office": "Gangtok",
+      "district": "Gangtok",
+      "notes": ""
+    },
+    {
+      "code": "SK-02",
+      "state_code": "SK",
+      "state": "Sikkim",
+      "office": "Gyalshing",
+      "district": "Gyalshing district",
+      "notes": ""
+    },
+    {
+      "code": "SK-03",
+      "state_code": "SK",
+      "state": "Sikkim",
+      "office": "Mangan",
+      "district": "Mangan",
+      "notes": ""
+    },
+    {
+      "code": "SK-04",
+      "state_code": "SK",
+      "state": "Sikkim",
+      "office": "Jorethang",
+      "district": "Namchi district",
+      "notes": ""
+    },
+    {
+      "code": "SK-05",
+      "state_code": "SK",
+      "state": "Sikkim",
+      "office": "Namchi",
+      "district": "Namchi district",
+      "notes": ""
+    },
+    {
+      "code": "SK-06",
+      "state_code": "SK",
+      "state": "Sikkim",
+      "office": "Soreng",
+      "district": "Soreng district",
+      "notes": ""
+    },
+    {
+      "code": "SK-07",
+      "state_code": "SK",
+      "state": "Sikkim",
+      "office": "Pakyong",
+      "district": "Pakyong district",
+      "notes": ""
+    },
+    {
+      "code": "SK-08",
+      "state_code": "SK",
+      "state": "Sikkim",
+      "office": "Singtam",
+      "district": "Singtam",
+      "notes": ""
+    }
+  ]
+}

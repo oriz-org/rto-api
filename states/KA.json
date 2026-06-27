@@ -1,0 +1,543 @@
+{
+  "state_code": "KA",
+  "state": "Karnataka",
+  "count": 67,
+  "codes": [
+    {
+      "code": "KA-01",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bengaluru Central, HSR Layout",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Central Bengaluru"
+    },
+    {
+      "code": "KA-02",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bengaluru West, Rajajinagar",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Western Bengaluru"
+    },
+    {
+      "code": "KA-03",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bengaluru East, Kasturinagar",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Eastern Bengaluru"
+    },
+    {
+      "code": "KA-04",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bengaluru North, Yeshwantpur",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Northern Bengaluru"
+    },
+    {
+      "code": "KA-05",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bengaluru South, Jayaprakash Nagara",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Southern Bengaluru"
+    },
+    {
+      "code": "KA-06",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Tumakuru",
+      "district": "Tumakuru District",
+      "notes": ""
+    },
+    {
+      "code": "KA-07",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Kolar",
+      "district": "Kolar District",
+      "notes": ""
+    },
+    {
+      "code": "KA-08",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Kolar (KGF region)",
+      "district": "Kolar District",
+      "notes": ""
+    },
+    {
+      "code": "KA-09",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Mysuru West",
+      "district": "Mysuru District",
+      "notes": ""
+    },
+    {
+      "code": "KA-10",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Chamarajanagar",
+      "district": "Chamarajanagara District",
+      "notes": ""
+    },
+    {
+      "code": "KA-11",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Mandya",
+      "district": "Mandya District",
+      "notes": ""
+    },
+    {
+      "code": "KA-12",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Madikeri",
+      "district": "Kodagu District",
+      "notes": ""
+    },
+    {
+      "code": "KA-13",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Hassan",
+      "district": "Hassan District",
+      "notes": ""
+    },
+    {
+      "code": "KA-14",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Shivamogga",
+      "district": "Shivamogga District",
+      "notes": ""
+    },
+    {
+      "code": "KA-15",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Sagara",
+      "district": "Shivamogga District",
+      "notes": ""
+    },
+    {
+      "code": "KA-16",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Chitradurga",
+      "district": "Chitradurga District",
+      "notes": ""
+    },
+    {
+      "code": "KA-17",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Davanagere",
+      "district": "Davanagere District",
+      "notes": ""
+    },
+    {
+      "code": "KA-18",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Chikkamagaluru",
+      "district": "Chikkamagaluru District",
+      "notes": ""
+    },
+    {
+      "code": "KA-19",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Mangaluru",
+      "district": "Dakshina Kannada District",
+      "notes": ""
+    },
+    {
+      "code": "KA-20",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Udupi",
+      "district": "Udupi District",
+      "notes": ""
+    },
+    {
+      "code": "KA-21",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Puttur",
+      "district": "Dakshina Kannada District",
+      "notes": ""
+    },
+    {
+      "code": "KA-22",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Belagavi",
+      "district": "Belagavi District",
+      "notes": ""
+    },
+    {
+      "code": "KA-23",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Chikkodi",
+      "district": "Belagavi District",
+      "notes": ""
+    },
+    {
+      "code": "KA-24",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bailhongal",
+      "district": "Belagavi District",
+      "notes": ""
+    },
+    {
+      "code": "KA-25",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Dharwad",
+      "district": "Dharwad District",
+      "notes": ""
+    },
+    {
+      "code": "KA-26",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Gadag",
+      "district": "Gadag District",
+      "notes": ""
+    },
+    {
+      "code": "KA-27",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Haveri",
+      "district": "Haveri District",
+      "notes": ""
+    },
+    {
+      "code": "KA-28",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Vijayapura",
+      "district": "Vijayapura District",
+      "notes": ""
+    },
+    {
+      "code": "KA-29",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bagalkote",
+      "district": "Bagalkote District",
+      "notes": ""
+    },
+    {
+      "code": "KA-30",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Karwar",
+      "district": "Uttara Kannada District",
+      "notes": ""
+    },
+    {
+      "code": "KA-31",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Sirsi",
+      "district": "Uttara Kannada District",
+      "notes": ""
+    },
+    {
+      "code": "KA-32",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Kalaburagi",
+      "district": "Kalaburagi District",
+      "notes": ""
+    },
+    {
+      "code": "KA-33",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Yadgir",
+      "district": "Yadgir District",
+      "notes": ""
+    },
+    {
+      "code": "KA-34",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Ballari",
+      "district": "Ballari District",
+      "notes": ""
+    },
+    {
+      "code": "KA-35",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Hosapete",
+      "district": "Vijayanagara District",
+      "notes": ""
+    },
+    {
+      "code": "KA-36",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Raichur",
+      "district": "Raichur District",
+      "notes": ""
+    },
+    {
+      "code": "KA-37",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Koppal",
+      "district": "Koppal District",
+      "notes": ""
+    },
+    {
+      "code": "KA-38",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bidar",
+      "district": "Bidar District",
+      "notes": ""
+    },
+    {
+      "code": "KA-39",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bhalki",
+      "district": "Bidar District",
+      "notes": ""
+    },
+    {
+      "code": "KA-40",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Chikkaballapura",
+      "district": "Chikkaballapura District",
+      "notes": ""
+    },
+    {
+      "code": "KA-41",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Jnana Bharathi",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Greater Bengaluru western suburbs"
+    },
+    {
+      "code": "KA-42",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Ramanagara",
+      "district": "Ramanagara District",
+      "notes": ""
+    },
+    {
+      "code": "KA-43",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Devanahalli",
+      "district": "Bengaluru Rural District",
+      "notes": ""
+    },
+    {
+      "code": "KA-44",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Tiptur",
+      "district": "Tumakuru District",
+      "notes": ""
+    },
+    {
+      "code": "KA-45",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Hunsur",
+      "district": "Mysuru District",
+      "notes": ""
+    },
+    {
+      "code": "KA-46",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Sakleshpura",
+      "district": "Hassan District",
+      "notes": ""
+    },
+    {
+      "code": "KA-47",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Honnavar",
+      "district": "Uttara Kannada District",
+      "notes": ""
+    },
+    {
+      "code": "KA-48",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Jamkhandi",
+      "district": "Bagalkote District",
+      "notes": ""
+    },
+    {
+      "code": "KA-49",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Gokak",
+      "district": "Belagavi District",
+      "notes": ""
+    },
+    {
+      "code": "KA-50",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Yelahanka, Bengaluru",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Bengaluru northern suburbs"
+    },
+    {
+      "code": "KA-51",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Electronic City, Bengaluru",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Bengaluru southern suburbs"
+    },
+    {
+      "code": "KA-52",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Nelamangala",
+      "district": "Bengaluru Rural District",
+      "notes": ""
+    },
+    {
+      "code": "KA-53",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Krishnarajapuram, Bengaluru",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Bengaluru eastern suburbs and Hoskote Taluk"
+    },
+    {
+      "code": "KA-54",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Nagamangala",
+      "district": "Mandya District",
+      "notes": ""
+    },
+    {
+      "code": "KA-55",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Mysuru East",
+      "district": "Mysuru District",
+      "notes": ""
+    },
+    {
+      "code": "KA-56",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Basavakalyan",
+      "district": "Bidar District",
+      "notes": ""
+    },
+    {
+      "code": "KA-57",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Shantinagara",
+      "district": "Bengaluru Urban District",
+      "notes": "KA-57 F series exclusively for KSRTC and BMTC buses"
+    },
+    {
+      "code": "KA-59",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Chandapura",
+      "district": "Bengaluru Urban District",
+      "notes": "Covers Anekal Taluk"
+    },
+    {
+      "code": "KA-63",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Dharwad East",
+      "district": "Dharwad District",
+      "notes": ""
+    },
+    {
+      "code": "KA-64",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Madhugiri",
+      "district": "Tumakuru District",
+      "notes": ""
+    },
+    {
+      "code": "KA-65",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Dandeli",
+      "district": "Uttara Kannada District",
+      "notes": ""
+    },
+    {
+      "code": "KA-66",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Tarikere",
+      "district": "Chikkamagaluru District",
+      "notes": ""
+    },
+    {
+      "code": "KA-67",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Chintamani",
+      "district": "Chikkaballapura District",
+      "notes": ""
+    },
+    {
+      "code": "KA-68",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Ranebennur",
+      "district": "Haveri District",
+      "notes": ""
+    },
+    {
+      "code": "KA-69",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Ramdurg",
+      "district": "Belagavi District",
+      "notes": ""
+    },
+    {
+      "code": "KA-70",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Bantwal",
+      "district": "Dakshina Kannada District",
+      "notes": ""
+    },
+    {
+      "code": "KA-71",
+      "state_code": "KA",
+      "state": "Karnataka",
+      "office": "Athani",
+      "district": "Belagavi District",
+      "notes": ""
+    }
+  ]
+}

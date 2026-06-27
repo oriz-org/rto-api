@@ -1,0 +1,47 @@
+{
+  "state_code": "PY",
+  "state": "Puducherry",
+  "count": 5,
+  "codes": [
+    {
+      "code": "PY-01",
+      "state_code": "PY",
+      "state": "Puducherry",
+      "office": "Puducherry",
+      "district": "Puducherry",
+      "notes": ""
+    },
+    {
+      "code": "PY-02",
+      "state_code": "PY",
+      "state": "Puducherry",
+      "office": "Karaikal",
+      "district": "Karaikal",
+      "notes": ""
+    },
+    {
+      "code": "PY-03",
+      "state_code": "PY",
+      "state": "Puducherry",
+      "office": "Mahe",
+      "district": "Mahe",
+      "notes": ""
+    },
+    {
+      "code": "PY-04",
+      "state_code": "PY",
+      "state": "Puducherry",
+      "office": "Yanam",
+      "district": "Yanam",
+      "notes": ""
+    },
+    {
+      "code": "PY-05",
+      "state_code": "PY",
+      "state": "Puducherry",
+      "office": "Oulgaret",
+      "district": "Oulgaret",
+      "notes": ""
+    }
+  ]
+}

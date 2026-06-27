@@ -1,0 +1,39 @@
+{
+  "state_code": "CH",
+  "state": "Chandigarh",
+  "count": 4,
+  "codes": [
+    {
+      "code": "CH-01",
+      "state_code": "CH",
+      "state": "Chandigarh",
+      "office": "Chandigarh",
+      "district": "Chandigarh district",
+      "notes": ""
+    },
+    {
+      "code": "CH-02",
+      "state_code": "CH",
+      "state": "Chandigarh",
+      "office": "Chandigarh",
+      "district": "Chandigarh district",
+      "notes": ""
+    },
+    {
+      "code": "CH-03",
+      "state_code": "CH",
+      "state": "Chandigarh",
+      "office": "Chandigarh",
+      "district": "Chandigarh district",
+      "notes": ""
+    },
+    {
+      "code": "CH-04",
+      "state_code": "CH",
+      "state": "Chandigarh",
+      "office": "Chandigarh",
+      "district": "Chandigarh district",
+      "notes": ""
+    }
+  ]
+}

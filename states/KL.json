@@ -1,0 +1,711 @@
+{
+  "state_code": "KL",
+  "state": "Kerala",
+  "count": 88,
+  "codes": [
+    {
+      "code": "KL-01",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram Corporation",
+      "notes": "Most Kerala Government vehicles including Police are registered here"
+    },
+    {
+      "code": "KL-02",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kollam",
+      "district": "Kollam Municipal Corporation",
+      "notes": ""
+    },
+    {
+      "code": "KL-03",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Pathanamthitta",
+      "district": "Pathanamthitta",
+      "notes": ""
+    },
+    {
+      "code": "KL-04",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Alappuzha",
+      "district": "Alappuzha",
+      "notes": ""
+    },
+    {
+      "code": "KL-05",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kottayam",
+      "district": "Kottayam",
+      "notes": ""
+    },
+    {
+      "code": "KL-06",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Idukki",
+      "district": "Idukki, Painavu",
+      "notes": ""
+    },
+    {
+      "code": "KL-07",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kochi",
+      "district": "Ernakulam District",
+      "notes": "Covers parts of Greater Kochi"
+    },
+    {
+      "code": "KL-08",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Thrissur",
+      "district": "Thrissur Corporation",
+      "notes": ""
+    },
+    {
+      "code": "KL-09",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Palakkad",
+      "district": "Palakkad",
+      "notes": ""
+    },
+    {
+      "code": "KL-10",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Malappuram",
+      "district": "Malappuram",
+      "notes": ""
+    },
+    {
+      "code": "KL-11",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kozhikode",
+      "district": "Kozhikode Municipal Corporation",
+      "notes": ""
+    },
+    {
+      "code": "KL-12",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kalpetta",
+      "district": "Wayanad District",
+      "notes": ""
+    },
+    {
+      "code": "KL-13",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kannur",
+      "district": "Kannur Municipal Corporation",
+      "notes": ""
+    },
+    {
+      "code": "KL-14",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kasaragod",
+      "district": "Kasaragod",
+      "notes": ""
+    },
+    {
+      "code": "KL-15",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Nationalised Sector I, Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "notes": "Exclusively for KSRTC and KURTC buses"
+    },
+    {
+      "code": "KL-16",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Attingal",
+      "district": "Thiruvananthapuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-17",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Muvattupuzha",
+      "district": "Ernakulam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-18",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Vadakara",
+      "district": "Kozhikode District",
+      "notes": ""
+    },
+    {
+      "code": "KL-19",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Parassala",
+      "district": "Thiruvananthapuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-20",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Neyyattinkara",
+      "district": "Thiruvananthapuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-21",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Nedumangad",
+      "district": "Thiruvananthapuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-22",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kazhakkoottam",
+      "district": "Thiruvananthapuram",
+      "notes": ""
+    },
+    {
+      "code": "KL-23",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Karunagappalli",
+      "district": "Kollam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-24",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kottarakkara",
+      "district": "Kollam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-25",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Punalur",
+      "district": "Kollam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-26",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Adoor",
+      "district": "Pathanamthitta District",
+      "notes": ""
+    },
+    {
+      "code": "KL-27",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Tiruvalla",
+      "district": "Pathanamthitta District",
+      "notes": ""
+    },
+    {
+      "code": "KL-28",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Mallappally",
+      "district": "Pathanamthitta District",
+      "notes": ""
+    },
+    {
+      "code": "KL-29",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kayamkulam",
+      "district": "Alappuzha District",
+      "notes": ""
+    },
+    {
+      "code": "KL-30",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Chengannur",
+      "district": "Alappuzha District",
+      "notes": ""
+    },
+    {
+      "code": "KL-31",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Mavelikkara",
+      "district": "Alappuzha District",
+      "notes": ""
+    },
+    {
+      "code": "KL-32",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Cherthala",
+      "district": "Alappuzha District",
+      "notes": ""
+    },
+    {
+      "code": "KL-33",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Changanassery",
+      "district": "Kottayam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-34",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kanjirapalli",
+      "district": "Kottayam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-35",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Pala",
+      "district": "Kottayam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-36",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Vaikom",
+      "district": "Kottayam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-37",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Vandiperiyar",
+      "district": "Idukki District",
+      "notes": ""
+    },
+    {
+      "code": "KL-38",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Thodupuzha",
+      "district": "Idukki District",
+      "notes": ""
+    },
+    {
+      "code": "KL-39",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Thripunithura",
+      "district": "Ernakulam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-40",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Perumbavoor",
+      "district": "Ernakulam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-41",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Aluva",
+      "district": "Ernakulam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-42",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "North Paravur",
+      "district": "Ernakulam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-43",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Fort Kochi & Mattancherry",
+      "district": "Ernakulam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-44",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kothamangalam",
+      "district": "Ernakulam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-45",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Irinjalakuda",
+      "district": "Thrissur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-46",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Guruvayur",
+      "district": "Thrissur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-47",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kodungallur",
+      "district": "Thrissur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-48",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Wadakkancherry",
+      "district": "Thrissur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-49",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Alathur",
+      "district": "Palakkad District",
+      "notes": ""
+    },
+    {
+      "code": "KL-50",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Mannarkkad",
+      "district": "Palakkad District",
+      "notes": ""
+    },
+    {
+      "code": "KL-51",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Ottapalam",
+      "district": "Palakkad District",
+      "notes": ""
+    },
+    {
+      "code": "KL-52",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Pattambi",
+      "district": "Palakkad District",
+      "notes": ""
+    },
+    {
+      "code": "KL-53",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Perinthalmanna",
+      "district": "Malappuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-54",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Ponnani",
+      "district": "Malappuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-55",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Tirur",
+      "district": "Malappuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-56",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Koyilandy",
+      "district": "Kozhikode District",
+      "notes": ""
+    },
+    {
+      "code": "KL-57",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Koduvally",
+      "district": "Kozhikode District",
+      "notes": ""
+    },
+    {
+      "code": "KL-58",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Thalassery",
+      "district": "Kannur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-59",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Taliparamba",
+      "district": "Kannur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-60",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kanhangad",
+      "district": "Kasargod District",
+      "notes": ""
+    },
+    {
+      "code": "KL-61",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kunnathur",
+      "district": "Kollam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-62",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Ranni",
+      "district": "Pathanamthitta District",
+      "notes": ""
+    },
+    {
+      "code": "KL-63",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Angamaly",
+      "district": "Ernakulam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-64",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Chalakkudy",
+      "district": "Thrissur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-65",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Tirurangadi",
+      "district": "Malappuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-66",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kuttanad",
+      "district": "Alappuzha District",
+      "notes": ""
+    },
+    {
+      "code": "KL-67",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Uzhavoor",
+      "district": "Kottayam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-68",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Devikulam",
+      "district": "Idukki District",
+      "notes": ""
+    },
+    {
+      "code": "KL-69",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Udumbanchola",
+      "district": "Idukki District",
+      "notes": ""
+    },
+    {
+      "code": "KL-70",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Chittur",
+      "district": "Palakkad District",
+      "notes": ""
+    },
+    {
+      "code": "KL-71",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Nilambur",
+      "district": "Malappuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-72",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Mananthavady",
+      "district": "Wayanad District",
+      "notes": ""
+    },
+    {
+      "code": "KL-73",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Sulthan Bathery",
+      "district": "Wayanad District",
+      "notes": ""
+    },
+    {
+      "code": "KL-74",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kattakada",
+      "district": "Thiruvananthapuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-75",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Thriprayar",
+      "district": "Thrissur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-76",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Nanmanda",
+      "district": "Kozhikode District",
+      "notes": ""
+    },
+    {
+      "code": "KL-77",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Perambra",
+      "district": "Kozhikode District",
+      "notes": ""
+    },
+    {
+      "code": "KL-78",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Iritty",
+      "district": "Kannur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-79",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Vellarikundu",
+      "district": "Kasargod District",
+      "notes": ""
+    },
+    {
+      "code": "KL-80",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Pathanapuram",
+      "district": "Kollam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-81",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Varkala",
+      "district": "Thiruvananthapuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-82",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Chadayamangalam",
+      "district": "Kollam District",
+      "notes": ""
+    },
+    {
+      "code": "KL-83",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Konni",
+      "district": "Pathanamthitta District",
+      "notes": ""
+    },
+    {
+      "code": "KL-84",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Kondotty",
+      "district": "Malappuram District",
+      "notes": ""
+    },
+    {
+      "code": "KL-85",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Ramanattukara-Feroke",
+      "district": "Kozhikode District",
+      "notes": ""
+    },
+    {
+      "code": "KL-86",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Payyannur",
+      "district": "Kannur District",
+      "notes": ""
+    },
+    {
+      "code": "KL-90",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Nationalised Sector II",
+      "district": "Thiruvananthapuram",
+      "notes": "Government vehicles: KL-90A state, KL-90B central, KL-90C local body, KL-90D PSU"
+    },
+    {
+      "code": "KL-99",
+      "state_code": "KL",
+      "state": "Kerala",
+      "office": "Thiruvananthapuram",
+      "district": "Thiruvananthapuram",
+      "notes": "State Transport Authority vehicles, limited circulation"
+    }
+  ]
+}

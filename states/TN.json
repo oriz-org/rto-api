@@ -1,0 +1,711 @@
+{
+  "state_code": "TN",
+  "state": "Tamil Nadu",
+  "count": 88,
+  "codes": [
+    {
+      "code": "TN-01",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chennai (Central): Ayanavaram",
+      "district": "Chennai",
+      "notes": "SETC & MTC buses registered under TN 01 N XXXX"
+    },
+    {
+      "code": "TN-02",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chennai (North West): Anna Nagar",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-03",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chennai (North East): Tondiarpet",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-04",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chennai (East): Royapuram",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-05",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chennai (North): Kolathur",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-06",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chennai (South East): Mandavelli",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-07",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chennai (South): Adyar",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-09",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chennai (West): K. K. Nagar",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-10",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chennai (South West): Virugambakkam",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-11",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tambaram",
+      "district": "Chengalpattu",
+      "notes": ""
+    },
+    {
+      "code": "TN-12",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Poonamallee",
+      "district": "Tiruvallur",
+      "notes": ""
+    },
+    {
+      "code": "TN-13",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Ambattur",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-14",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Sholinganallur",
+      "district": "Chengalpattu",
+      "notes": ""
+    },
+    {
+      "code": "TN-15",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Ulundurpet",
+      "district": "Kallakurichi",
+      "notes": ""
+    },
+    {
+      "code": "TN-16",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tindivanam",
+      "district": "Villupuram",
+      "notes": ""
+    },
+    {
+      "code": "TN-18",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Red Hills",
+      "district": "Tiruvallur",
+      "notes": ""
+    },
+    {
+      "code": "TN-19",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chengalpattu",
+      "district": "Chengalpattu",
+      "notes": ""
+    },
+    {
+      "code": "TN-20",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tiruvallur",
+      "district": "Tiruvallur",
+      "notes": ""
+    },
+    {
+      "code": "TN-21",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Kanchipuram",
+      "district": "Kanchipuram",
+      "notes": ""
+    },
+    {
+      "code": "TN-22",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Meenambakkam",
+      "district": "Chennai",
+      "notes": ""
+    },
+    {
+      "code": "TN-23",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Vellore",
+      "district": "Vellore",
+      "notes": ""
+    },
+    {
+      "code": "TN-24",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Krishnagiri",
+      "district": "Krishnagiri",
+      "notes": ""
+    },
+    {
+      "code": "TN-25",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Thiruvannamalai",
+      "district": "Thiruvannamalai",
+      "notes": ""
+    },
+    {
+      "code": "TN-27",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Salem",
+      "district": "Salem",
+      "notes": "Not in use"
+    },
+    {
+      "code": "TN-28",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Namakkal (North)",
+      "district": "Namakkal",
+      "notes": ""
+    },
+    {
+      "code": "TN-29",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Dharmapuri",
+      "district": "Dharmapuri",
+      "notes": ""
+    },
+    {
+      "code": "TN-30",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Salem (West)",
+      "district": "Salem",
+      "notes": ""
+    },
+    {
+      "code": "TN-31",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Cuddalore",
+      "district": "Cuddalore",
+      "notes": ""
+    },
+    {
+      "code": "TN-32",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Villupuram",
+      "district": "Villupuram",
+      "notes": ""
+    },
+    {
+      "code": "TN-33",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Erode (East)",
+      "district": "Erode",
+      "notes": ""
+    },
+    {
+      "code": "TN-34",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tiruchengode",
+      "district": "Namakkal",
+      "notes": ""
+    },
+    {
+      "code": "TN-36",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Gobichettipalayam",
+      "district": "Erode",
+      "notes": ""
+    },
+    {
+      "code": "TN-37",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Coimbatore (South)",
+      "district": "Coimbatore",
+      "notes": ""
+    },
+    {
+      "code": "TN-38",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Coimbatore (North)",
+      "district": "Coimbatore",
+      "notes": ""
+    },
+    {
+      "code": "TN-39",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tirupur (North)",
+      "district": "Tirupur",
+      "notes": ""
+    },
+    {
+      "code": "TN-40",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Mettupalayam",
+      "district": "Coimbatore",
+      "notes": ""
+    },
+    {
+      "code": "TN-41",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Pollachi",
+      "district": "Coimbatore",
+      "notes": ""
+    },
+    {
+      "code": "TN-42",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tirupur (South)",
+      "district": "Tirupur",
+      "notes": ""
+    },
+    {
+      "code": "TN-43",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Ooty",
+      "district": "Nilgiris",
+      "notes": ""
+    },
+    {
+      "code": "TN-45",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tiruchirapalli (West)",
+      "district": "Tiruchirapalli",
+      "notes": ""
+    },
+    {
+      "code": "TN-46",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Perambalur",
+      "district": "Perambalur",
+      "notes": ""
+    },
+    {
+      "code": "TN-47",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Karur",
+      "district": "Karur",
+      "notes": ""
+    },
+    {
+      "code": "TN-48",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Srirangam",
+      "district": "Tiruchirapalli",
+      "notes": ""
+    },
+    {
+      "code": "TN-49",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Thanjavur",
+      "district": "Thanjavur",
+      "notes": ""
+    },
+    {
+      "code": "TN-50",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tiruvarur",
+      "district": "Tiruvarur",
+      "notes": ""
+    },
+    {
+      "code": "TN-51",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Nagapattinam",
+      "district": "Nagapattinam",
+      "notes": ""
+    },
+    {
+      "code": "TN-52",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Sankagiri",
+      "district": "Salem",
+      "notes": ""
+    },
+    {
+      "code": "TN-54",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Salem (East)",
+      "district": "Salem",
+      "notes": ""
+    },
+    {
+      "code": "TN-55",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Pudukottai",
+      "district": "Pudukottai",
+      "notes": ""
+    },
+    {
+      "code": "TN-56",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Perundurai",
+      "district": "Erode",
+      "notes": ""
+    },
+    {
+      "code": "TN-57",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Dindigul",
+      "district": "Dindigul",
+      "notes": ""
+    },
+    {
+      "code": "TN-58",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Madurai (South)",
+      "district": "Madurai",
+      "notes": ""
+    },
+    {
+      "code": "TN-59",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Madurai (North)",
+      "district": "Madurai",
+      "notes": ""
+    },
+    {
+      "code": "TN-60",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Theni",
+      "district": "Theni",
+      "notes": ""
+    },
+    {
+      "code": "TN-61",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Ariyalur",
+      "district": "Ariyalur",
+      "notes": ""
+    },
+    {
+      "code": "TN-63",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Sivaganga",
+      "district": "Sivaganga",
+      "notes": ""
+    },
+    {
+      "code": "TN-64",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Madurai (Central)",
+      "district": "Madurai",
+      "notes": ""
+    },
+    {
+      "code": "TN-65",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Ramanathapuram",
+      "district": "Ramanathapuram",
+      "notes": ""
+    },
+    {
+      "code": "TN-66",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Coimbatore (Central)",
+      "district": "Coimbatore",
+      "notes": ""
+    },
+    {
+      "code": "TN-67",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Virudhunagar",
+      "district": "Virudhunagar",
+      "notes": ""
+    },
+    {
+      "code": "TN-68",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Kumbakonam",
+      "district": "Thanjavur",
+      "notes": ""
+    },
+    {
+      "code": "TN-69",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Thoothukudi",
+      "district": "Thoothukudi",
+      "notes": ""
+    },
+    {
+      "code": "TN-70",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Hosur",
+      "district": "Krishnagiri",
+      "notes": ""
+    },
+    {
+      "code": "TN-72",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tirunelveli",
+      "district": "Tirunelveli",
+      "notes": ""
+    },
+    {
+      "code": "TN-73",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Ranipet",
+      "district": "Ranipet",
+      "notes": ""
+    },
+    {
+      "code": "TN-74",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Nagercoil",
+      "district": "Kanniyakumari",
+      "notes": ""
+    },
+    {
+      "code": "TN-75",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Marthandam",
+      "district": "Kanniyakumari",
+      "notes": ""
+    },
+    {
+      "code": "TN-76",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tenkasi",
+      "district": "Tenkasi",
+      "notes": ""
+    },
+    {
+      "code": "TN-77",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Attur",
+      "district": "Salem",
+      "notes": ""
+    },
+    {
+      "code": "TN-78",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Dharapuram",
+      "district": "Tirupur",
+      "notes": ""
+    },
+    {
+      "code": "TN-79",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Sankarankovil",
+      "district": "Tenkasi",
+      "notes": ""
+    },
+    {
+      "code": "TN-81",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Tiruchirapalli (East)",
+      "district": "Tiruchirapalli",
+      "notes": ""
+    },
+    {
+      "code": "TN-82",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Mayiladuthurai",
+      "district": "Mayiladuthurai",
+      "notes": ""
+    },
+    {
+      "code": "TN-83",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Vaniyambadi",
+      "district": "Thirupattur",
+      "notes": ""
+    },
+    {
+      "code": "TN-84",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Srivilliputhur",
+      "district": "Virudhunagar",
+      "notes": ""
+    },
+    {
+      "code": "TN-85",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Kundrathur",
+      "district": "Kanchipuram",
+      "notes": ""
+    },
+    {
+      "code": "TN-86",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Erode (West)",
+      "district": "Erode",
+      "notes": ""
+    },
+    {
+      "code": "TN-87",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Sriperumbudur",
+      "district": "Kanchipuram",
+      "notes": ""
+    },
+    {
+      "code": "TN-88",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Namakkal (South)",
+      "district": "Namakkal",
+      "notes": ""
+    },
+    {
+      "code": "TN-90",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Salem (South)",
+      "district": "Salem",
+      "notes": ""
+    },
+    {
+      "code": "TN-91",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Chidambaram",
+      "district": "Cuddalore",
+      "notes": ""
+    },
+    {
+      "code": "TN-92",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Thiruchendur",
+      "district": "Thoothukudi",
+      "notes": ""
+    },
+    {
+      "code": "TN-93",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Mettur",
+      "district": "Salem",
+      "notes": ""
+    },
+    {
+      "code": "TN-94",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Palani",
+      "district": "Dindigul",
+      "notes": ""
+    },
+    {
+      "code": "TN-95",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Sivakasi",
+      "district": "Virudhunagar",
+      "notes": ""
+    },
+    {
+      "code": "TN-96",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Kovilpatti",
+      "district": "Thoothukudi",
+      "notes": ""
+    },
+    {
+      "code": "TN-97",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Arani",
+      "district": "Tiruvannamalai",
+      "notes": ""
+    },
+    {
+      "code": "TN-99",
+      "state_code": "TN",
+      "state": "Tamil Nadu",
+      "office": "Coimbatore (West)",
+      "district": "Coimbatore",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "state_code": "AR",
+  "state": "Arunachal Pradesh",
+  "count": 20,
+  "codes": [
+    {
+      "code": "AR-01",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Itanagar",
+      "district": "Papum Pare district",
+      "notes": ""
+    },
+    {
+      "code": "AR-02",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Itanagar",
+      "district": "Papum Pare district",
+      "notes": ""
+    },
+    {
+      "code": "AR-03",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Tawang",
+      "district": "Tawang district",
+      "notes": ""
+    },
+    {
+      "code": "AR-04",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Bomdila",
+      "district": "West Kameng district",
+      "notes": ""
+    },
+    {
+      "code": "AR-05",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Seppa",
+      "district": "East Kameng district",
+      "notes": ""
+    },
+    {
+      "code": "AR-06",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Ziro",
+      "district": "Lower Subansiri district",
+      "notes": ""
+    },
+    {
+      "code": "AR-07",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Daporijo",
+      "district": "Upper Subansiri district",
+      "notes": ""
+    },
+    {
+      "code": "AR-08",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Along",
+      "district": "West Siang district",
+      "notes": ""
+    },
+    {
+      "code": "AR-09",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Pasighat",
+      "district": "East Siang district",
+      "notes": ""
+    },
+    {
+      "code": "AR-10",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Anini",
+      "district": "Dibang Valley district",
+      "notes": ""
+    },
+    {
+      "code": "AR-11",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Tezu",
+      "district": "Lohit district",
+      "notes": ""
+    },
+    {
+      "code": "AR-12",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Changlang",
+      "district": "Changlang district",
+      "notes": ""
+    },
+    {
+      "code": "AR-13",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Khonsa",
+      "district": "Tirap district",
+      "notes": ""
+    },
+    {
+      "code": "AR-14",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Yingkiong",
+      "district": "Upper Siang district",
+      "notes": ""
+    },
+    {
+      "code": "AR-15",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Koloriang",
+      "district": "Kurung Kumey district",
+      "notes": ""
+    },
+    {
+      "code": "AR-16",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Roing",
+      "district": "Dibang Valley district",
+      "notes": ""
+    },
+    {
+      "code": "AR-17",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Hawai",
+      "district": "Anjaw district",
+      "notes": ""
+    },
+    {
+      "code": "AR-19",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Palin",
+      "district": "Kra Daadi district",
+      "notes": ""
+    },
+    {
+      "code": "AR-20",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Namsai",
+      "district": "Namsai district",
+      "notes": "Carved out from Lohit district on Nov 17, 2014"
+    },
+    {
+      "code": "AR-22",
+      "state_code": "AR",
+      "state": "Arunachal Pradesh",
+      "office": "Siji",
+      "district": "Lower Siang district",
+      "notes": "Carved out from West Siang district on Nov 24, 2018"
+    }
+  ]
+}

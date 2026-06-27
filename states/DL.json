@@ -1,0 +1,111 @@
+{
+  "state_code": "DL",
+  "state": "Delhi",
+  "count": 13,
+  "codes": [
+    {
+      "code": "DL-1",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "Mall Road, Vishwavidyalaya",
+      "district": "North Delhi District",
+      "notes": ""
+    },
+    {
+      "code": "DL-2",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "Indraprastha Depot",
+      "district": "New Delhi District",
+      "notes": ""
+    },
+    {
+      "code": "DL-3",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "DDA Market, Sheikh Sarai",
+      "district": "South Delhi District",
+      "notes": ""
+    },
+    {
+      "code": "DL-4",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "Janakpuri",
+      "district": "West Delhi District I",
+      "notes": ""
+    },
+    {
+      "code": "DL-5",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "Loni Road, Shahdara",
+      "district": "North East Delhi District",
+      "notes": ""
+    },
+    {
+      "code": "DL-6",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "ISBT Sarai Kale Khan",
+      "district": "Central Delhi District",
+      "notes": ""
+    },
+    {
+      "code": "DL-7",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "DTC Depot, Mayur Vihar",
+      "district": "East Delhi District-I",
+      "notes": ""
+    },
+    {
+      "code": "DL-8",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "DTC Depot, Wazirpur",
+      "district": "North West Delhi District-I",
+      "notes": ""
+    },
+    {
+      "code": "DL-9",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "Sector-10, Dwarka",
+      "district": "South West Delhi District-I",
+      "notes": ""
+    },
+    {
+      "code": "DL-10",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "Raja Garden",
+      "district": "West Delhi District-II",
+      "notes": ""
+    },
+    {
+      "code": "DL-11",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "DTC Depot, Rohini",
+      "district": "North West Delhi District-II",
+      "notes": ""
+    },
+    {
+      "code": "DL-12",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "DTC Depot, Vasant Vihar",
+      "district": "South West Delhi District-II",
+      "notes": ""
+    },
+    {
+      "code": "DL-13",
+      "state_code": "DL",
+      "state": "Delhi",
+      "office": "CBD Ground, Surajmal Vihar",
+      "district": "East Delhi District-II",
+      "notes": ""
+    }
+  ]
+}

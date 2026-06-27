@@ -1,0 +1,311 @@
+{
+  "state_code": "BR",
+  "state": "Bihar",
+  "count": 38,
+  "codes": [
+    {
+      "code": "BR-01",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Patna",
+      "district": "Patna district",
+      "notes": ""
+    },
+    {
+      "code": "BR-02",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Gaya",
+      "district": "Gaya district",
+      "notes": ""
+    },
+    {
+      "code": "BR-03",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Arrah",
+      "district": "Bhojpur district",
+      "notes": ""
+    },
+    {
+      "code": "BR-04",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Chhapra",
+      "district": "Saran district",
+      "notes": ""
+    },
+    {
+      "code": "BR-05",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Motihari",
+      "district": "East Champaran district",
+      "notes": ""
+    },
+    {
+      "code": "BR-06",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Muzaffarpur",
+      "district": "Muzaffarpur district",
+      "notes": ""
+    },
+    {
+      "code": "BR-07",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Darbhanga",
+      "district": "Darbhanga district",
+      "notes": ""
+    },
+    {
+      "code": "BR-08",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Munger",
+      "district": "Munger district",
+      "notes": ""
+    },
+    {
+      "code": "BR-09",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Begusarai",
+      "district": "Begusarai district",
+      "notes": ""
+    },
+    {
+      "code": "BR-10",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Bhagalpur",
+      "district": "Bhagalpur district",
+      "notes": ""
+    },
+    {
+      "code": "BR-11",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Purnia",
+      "district": "Purnia district",
+      "notes": ""
+    },
+    {
+      "code": "BR-19",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Saharsa",
+      "district": "Saharsa district",
+      "notes": ""
+    },
+    {
+      "code": "BR-21",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Bihar Sharif",
+      "district": "Nalanda district",
+      "notes": ""
+    },
+    {
+      "code": "BR-22",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Bettiah",
+      "district": "West Champaran district",
+      "notes": ""
+    },
+    {
+      "code": "BR-24",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Dehri",
+      "district": "Rohtas district",
+      "notes": ""
+    },
+    {
+      "code": "BR-25",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Jehanabad",
+      "district": "Jehanabad district",
+      "notes": ""
+    },
+    {
+      "code": "BR-26",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Aurangabad",
+      "district": "Aurangabad district",
+      "notes": ""
+    },
+    {
+      "code": "BR-27",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Nawada",
+      "district": "Nawada district",
+      "notes": ""
+    },
+    {
+      "code": "BR-28",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Gopalganj",
+      "district": "Gopalganj district",
+      "notes": ""
+    },
+    {
+      "code": "BR-29",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Siwan",
+      "district": "Siwan district",
+      "notes": ""
+    },
+    {
+      "code": "BR-30",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Sitamarhi",
+      "district": "Sitamarhi district",
+      "notes": ""
+    },
+    {
+      "code": "BR-31",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Hajipur",
+      "district": "Vaishali district",
+      "notes": ""
+    },
+    {
+      "code": "BR-32",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Madhubani",
+      "district": "Madhubani district",
+      "notes": ""
+    },
+    {
+      "code": "BR-33",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Samastipur",
+      "district": "Samastipur district",
+      "notes": ""
+    },
+    {
+      "code": "BR-34",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Khagaria",
+      "district": "Khagaria district",
+      "notes": ""
+    },
+    {
+      "code": "BR-37",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Kishanganj",
+      "district": "Kishanganj district",
+      "notes": ""
+    },
+    {
+      "code": "BR-38",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Araria",
+      "district": "Araria district",
+      "notes": ""
+    },
+    {
+      "code": "BR-39",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Katihar",
+      "district": "Katihar district",
+      "notes": ""
+    },
+    {
+      "code": "BR-43",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Madhepura",
+      "district": "Madhepura district",
+      "notes": ""
+    },
+    {
+      "code": "BR-44",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Buxar",
+      "district": "Buxar district",
+      "notes": ""
+    },
+    {
+      "code": "BR-45",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Bhabua",
+      "district": "Kaimur district",
+      "notes": ""
+    },
+    {
+      "code": "BR-46",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Jamui",
+      "district": "Jamui district",
+      "notes": ""
+    },
+    {
+      "code": "BR-50",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Supaul",
+      "district": "Supaul district",
+      "notes": ""
+    },
+    {
+      "code": "BR-51",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Banka",
+      "district": "Banka district",
+      "notes": ""
+    },
+    {
+      "code": "BR-52",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Sheikhpura",
+      "district": "Sheikhpura district",
+      "notes": ""
+    },
+    {
+      "code": "BR-53",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Lakhisarai",
+      "district": "Lakhisarai district",
+      "notes": ""
+    },
+    {
+      "code": "BR-55",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Sheohar",
+      "district": "Sheohar district",
+      "notes": ""
+    },
+    {
+      "code": "BR-56",
+      "state_code": "BR",
+      "state": "Bihar",
+      "office": "Arwal",
+      "district": "Arwal district",
+      "notes": ""
+    }
+  ]
+}

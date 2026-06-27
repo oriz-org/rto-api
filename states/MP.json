@@ -1,0 +1,471 @@
+{
+  "state_code": "MP",
+  "state": "Madhya Pradesh",
+  "count": 58,
+  "codes": [
+    {
+      "code": "MP-01",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Bhopal",
+      "district": "entire Madhya Pradesh",
+      "notes": "Governor of Madhya Pradesh vehicles"
+    },
+    {
+      "code": "MP-02",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Bhopal",
+      "district": "entire Madhya Pradesh",
+      "notes": "MP Government vehicles"
+    },
+    {
+      "code": "MP-03",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Bhopal",
+      "district": "entire Madhya Pradesh",
+      "notes": "MP Police vehicles"
+    },
+    {
+      "code": "MP-04",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Bhopal",
+      "district": "Bhopal",
+      "notes": ""
+    },
+    {
+      "code": "MP-05",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Hoshangabad",
+      "district": "Hoshangabad",
+      "notes": ""
+    },
+    {
+      "code": "MP-06",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Morena",
+      "district": "Morena",
+      "notes": ""
+    },
+    {
+      "code": "MP-07",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Gwalior",
+      "district": "Gwalior",
+      "notes": ""
+    },
+    {
+      "code": "MP-08",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Guna",
+      "district": "Guna",
+      "notes": ""
+    },
+    {
+      "code": "MP-09",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Indore",
+      "district": "Indore",
+      "notes": ""
+    },
+    {
+      "code": "MP-10",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Khargone",
+      "district": "Khargone",
+      "notes": ""
+    },
+    {
+      "code": "MP-11",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Dhar",
+      "district": "Dhar",
+      "notes": ""
+    },
+    {
+      "code": "MP-12",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Khandwa",
+      "district": "Khandwa",
+      "notes": ""
+    },
+    {
+      "code": "MP-13",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Ujjain",
+      "district": "Ujjain",
+      "notes": ""
+    },
+    {
+      "code": "MP-14",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Mandsaur",
+      "district": "Mandsaur",
+      "notes": ""
+    },
+    {
+      "code": "MP-15",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Sagar",
+      "district": "Sagar",
+      "notes": ""
+    },
+    {
+      "code": "MP-16",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Chhatarpur",
+      "district": "Chhatarpur",
+      "notes": ""
+    },
+    {
+      "code": "MP-17",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Rewa",
+      "district": "Rewa",
+      "notes": ""
+    },
+    {
+      "code": "MP-18",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Shahdol",
+      "district": "Shahdol",
+      "notes": ""
+    },
+    {
+      "code": "MP-19",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Satna",
+      "district": "Satna",
+      "notes": ""
+    },
+    {
+      "code": "MP-20",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Jabalpur",
+      "district": "Jabalpur",
+      "notes": ""
+    },
+    {
+      "code": "MP-21",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Katni",
+      "district": "Katni",
+      "notes": ""
+    },
+    {
+      "code": "MP-22",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Seoni",
+      "district": "Seoni",
+      "notes": ""
+    },
+    {
+      "code": "MP-28",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Chhindwara",
+      "district": "Chhindwara",
+      "notes": ""
+    },
+    {
+      "code": "MP-30",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Bhind",
+      "district": "Bhind",
+      "notes": ""
+    },
+    {
+      "code": "MP-31",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Sheopur",
+      "district": "Sheopur",
+      "notes": ""
+    },
+    {
+      "code": "MP-32",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Datia",
+      "district": "Datia",
+      "notes": ""
+    },
+    {
+      "code": "MP-33",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Shivpuri",
+      "district": "Shivpuri",
+      "notes": ""
+    },
+    {
+      "code": "MP-34",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Damoh",
+      "district": "Damoh",
+      "notes": ""
+    },
+    {
+      "code": "MP-35",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Panna",
+      "district": "Panna",
+      "notes": ""
+    },
+    {
+      "code": "MP-36",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Tikamgarh",
+      "district": "Tikamgarh",
+      "notes": ""
+    },
+    {
+      "code": "MP-37",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Sehore",
+      "district": "Sehore",
+      "notes": ""
+    },
+    {
+      "code": "MP-38",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Raisen",
+      "district": "Raisen",
+      "notes": ""
+    },
+    {
+      "code": "MP-39",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Rajgarh",
+      "district": "Rajgarh",
+      "notes": ""
+    },
+    {
+      "code": "MP-40",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Vidisha",
+      "district": "Vidisha",
+      "notes": ""
+    },
+    {
+      "code": "MP-41",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Dewas",
+      "district": "Dewas",
+      "notes": ""
+    },
+    {
+      "code": "MP-42",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Shajapur",
+      "district": "Shajapur",
+      "notes": ""
+    },
+    {
+      "code": "MP-43",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Ratlam",
+      "district": "Ratlam",
+      "notes": ""
+    },
+    {
+      "code": "MP-44",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Neemuch",
+      "district": "Neemuch",
+      "notes": ""
+    },
+    {
+      "code": "MP-45",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Jhabua",
+      "district": "Jhabua",
+      "notes": ""
+    },
+    {
+      "code": "MP-46",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Barwani",
+      "district": "Barwani",
+      "notes": ""
+    },
+    {
+      "code": "MP-47",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Harda",
+      "district": "Harda",
+      "notes": ""
+    },
+    {
+      "code": "MP-48",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Betul",
+      "district": "Betul",
+      "notes": ""
+    },
+    {
+      "code": "MP-49",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Narsinghpur",
+      "district": "Narsinghpur",
+      "notes": ""
+    },
+    {
+      "code": "MP-50",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Balaghat",
+      "district": "Balaghat",
+      "notes": ""
+    },
+    {
+      "code": "MP-51",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Mandla",
+      "district": "Mandla",
+      "notes": ""
+    },
+    {
+      "code": "MP-52",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Dindori",
+      "district": "Dindori",
+      "notes": ""
+    },
+    {
+      "code": "MP-53",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Sidhi",
+      "district": "Sidhi",
+      "notes": ""
+    },
+    {
+      "code": "MP-54",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Umaria",
+      "district": "Umaria",
+      "notes": ""
+    },
+    {
+      "code": "MP-65",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Anuppur",
+      "district": "Anuppur",
+      "notes": ""
+    },
+    {
+      "code": "MP-66",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Waidhan",
+      "district": "Singrauli",
+      "notes": ""
+    },
+    {
+      "code": "MP-67",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Ashoknagar",
+      "district": "Ashoknagar",
+      "notes": ""
+    },
+    {
+      "code": "MP-68",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Burhanpur",
+      "district": "Burhanpur",
+      "notes": ""
+    },
+    {
+      "code": "MP-69",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Alirajpur",
+      "district": "Alirajpur",
+      "notes": ""
+    },
+    {
+      "code": "MP-70",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Agar",
+      "district": "Agar Malwa",
+      "notes": ""
+    },
+    {
+      "code": "MP-71",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Niwari",
+      "district": "Niwari",
+      "notes": ""
+    },
+    {
+      "code": "MP-72",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Mauganj",
+      "district": "Mauganj",
+      "notes": ""
+    },
+    {
+      "code": "MP-73",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Maihar",
+      "district": "Maihar",
+      "notes": ""
+    },
+    {
+      "code": "MP-74",
+      "state_code": "MP",
+      "state": "Madhya Pradesh",
+      "office": "Pandhurna",
+      "district": "Pandhurna",
+      "notes": ""
+    }
+  ]
+}

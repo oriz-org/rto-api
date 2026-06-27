@@ -1,0 +1,167 @@
+{
+  "state_code": "JK",
+  "state": "Jammu and Kashmir",
+  "count": 20,
+  "codes": [
+    {
+      "code": "JK-01",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Srinagar",
+      "district": "Srinagar District",
+      "notes": ""
+    },
+    {
+      "code": "JK-02",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Jammu",
+      "district": "Jammu District",
+      "notes": ""
+    },
+    {
+      "code": "JK-03",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Anantnag",
+      "district": "Anantnag District",
+      "notes": ""
+    },
+    {
+      "code": "JK-04",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Budgam",
+      "district": "Budgam District",
+      "notes": ""
+    },
+    {
+      "code": "JK-05",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Baramulla",
+      "district": "Baramulla District",
+      "notes": ""
+    },
+    {
+      "code": "JK-06",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Doda",
+      "district": "Doda District",
+      "notes": ""
+    },
+    {
+      "code": "JK-08",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Lakhanpur, Kathua",
+      "district": "Kathua District",
+      "notes": ""
+    },
+    {
+      "code": "JK-09",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Kupwara",
+      "district": "Kupwara District",
+      "notes": ""
+    },
+    {
+      "code": "JK-11",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Rajouri",
+      "district": "Rajouri District",
+      "notes": ""
+    },
+    {
+      "code": "JK-12",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Poonch",
+      "district": "Poonch district",
+      "notes": ""
+    },
+    {
+      "code": "JK-13",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Pulwama",
+      "district": "Pulwama District",
+      "notes": ""
+    },
+    {
+      "code": "JK-14",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Udhampur",
+      "district": "Udhampur District",
+      "notes": ""
+    },
+    {
+      "code": "JK-15",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Bandipora",
+      "district": "Bandipora District",
+      "notes": ""
+    },
+    {
+      "code": "JK-16",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Ganderbal",
+      "district": "Ganderbal District",
+      "notes": ""
+    },
+    {
+      "code": "JK-17",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Kishtwar",
+      "district": "Kishtwar District",
+      "notes": ""
+    },
+    {
+      "code": "JK-18",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Kulgam",
+      "district": "Kulgam District",
+      "notes": ""
+    },
+    {
+      "code": "JK-19",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Ramban",
+      "district": "Ramban District",
+      "notes": ""
+    },
+    {
+      "code": "JK-20",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Reasi",
+      "district": "Reasi District",
+      "notes": ""
+    },
+    {
+      "code": "JK-21",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Samba",
+      "district": "Samba District",
+      "notes": ""
+    },
+    {
+      "code": "JK-22",
+      "state_code": "JK",
+      "state": "Jammu and Kashmir",
+      "office": "Shopian",
+      "district": "Shopian District",
+      "notes": ""
+    }
+  ]
+}

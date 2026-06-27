@@ -1,0 +1,287 @@
+{
+  "state_code": "OD",
+  "state": "Odisha",
+  "count": 35,
+  "codes": [
+    {
+      "code": "OD-01",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Balasore",
+      "district": "Balasore district",
+      "notes": ""
+    },
+    {
+      "code": "OD-02",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Bhubaneswar",
+      "district": "Khurda district",
+      "notes": ""
+    },
+    {
+      "code": "OD-03",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Bolangir",
+      "district": "Bolangir district",
+      "notes": ""
+    },
+    {
+      "code": "OD-04",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Chandikhol",
+      "district": "Jajpur district",
+      "notes": ""
+    },
+    {
+      "code": "OD-05",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Cuttack",
+      "district": "Cuttack district",
+      "notes": ""
+    },
+    {
+      "code": "OD-06",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Dhenkanal",
+      "district": "Dhenkanal district",
+      "notes": ""
+    },
+    {
+      "code": "OD-07",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Chatrapur",
+      "district": "Ganjam district",
+      "notes": ""
+    },
+    {
+      "code": "OD-08",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Bhawanipatna",
+      "district": "Kalahandi district",
+      "notes": ""
+    },
+    {
+      "code": "OD-09",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Keonjhar",
+      "district": "Keonjhar district",
+      "notes": ""
+    },
+    {
+      "code": "OD-10",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Koraput",
+      "district": "Koraput district",
+      "notes": ""
+    },
+    {
+      "code": "OD-11",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Baripada",
+      "district": "Mayurbhanj district",
+      "notes": ""
+    },
+    {
+      "code": "OD-12",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Phulbani",
+      "district": "Kandhamal district",
+      "notes": ""
+    },
+    {
+      "code": "OD-13",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Puri",
+      "district": "Puri district",
+      "notes": ""
+    },
+    {
+      "code": "OD-14",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Rourkela",
+      "district": "Sundargarh district",
+      "notes": ""
+    },
+    {
+      "code": "OD-15",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Sambalpur",
+      "district": "Sambalpur district",
+      "notes": ""
+    },
+    {
+      "code": "OD-16",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Sundargarh",
+      "district": "Sundargarh district",
+      "notes": ""
+    },
+    {
+      "code": "OD-17",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Bargarh",
+      "district": "Bargarh district",
+      "notes": ""
+    },
+    {
+      "code": "OD-18",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Rayagada",
+      "district": "Rayagada district",
+      "notes": ""
+    },
+    {
+      "code": "OD-19",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Angul",
+      "district": "Angul district",
+      "notes": ""
+    },
+    {
+      "code": "OD-20",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Paralakhemundi",
+      "district": "Gajapati district",
+      "notes": ""
+    },
+    {
+      "code": "OD-21",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Jagatsinghpur",
+      "district": "Jagatsinghpur district",
+      "notes": ""
+    },
+    {
+      "code": "OD-22",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Bhadrak",
+      "district": "Bhadrak district",
+      "notes": ""
+    },
+    {
+      "code": "OD-23",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Jharsuguda",
+      "district": "Jharsuguda district",
+      "notes": ""
+    },
+    {
+      "code": "OD-24",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Nabarangpur",
+      "district": "Nabarangpur district",
+      "notes": ""
+    },
+    {
+      "code": "OD-25",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Nayagarh",
+      "district": "Nayagarh district",
+      "notes": ""
+    },
+    {
+      "code": "OD-26",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Nuapada",
+      "district": "Nuapada district",
+      "notes": ""
+    },
+    {
+      "code": "OD-27",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Boudh",
+      "district": "Boudh district",
+      "notes": ""
+    },
+    {
+      "code": "OD-28",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Debagarh",
+      "district": "Debagarh district",
+      "notes": ""
+    },
+    {
+      "code": "OD-29",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Kendrapara",
+      "district": "Kendrapara district",
+      "notes": ""
+    },
+    {
+      "code": "OD-30",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Malkangiri",
+      "district": "Malkangiri district",
+      "notes": ""
+    },
+    {
+      "code": "OD-31",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Subarnapur",
+      "district": "Subarnapur district",
+      "notes": ""
+    },
+    {
+      "code": "OD-32",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Bhanjanagar",
+      "district": "Ganjam district",
+      "notes": ""
+    },
+    {
+      "code": "OD-33",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Bhubaneswar-II",
+      "district": "Khurda district",
+      "notes": ""
+    },
+    {
+      "code": "OD-34",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Jajpur",
+      "district": "Jajpur district",
+      "notes": ""
+    },
+    {
+      "code": "OD-35",
+      "state_code": "OD",
+      "state": "Odisha",
+      "office": "Talcher",
+      "district": "Angul district",
+      "notes": ""
+    }
+  ]
+}

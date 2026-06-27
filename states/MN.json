@@ -1,0 +1,71 @@
+{
+  "state_code": "MN",
+  "state": "Manipur",
+  "count": 8,
+  "codes": [
+    {
+      "code": "MN-01",
+      "state_code": "MN",
+      "state": "Manipur",
+      "office": "Imphal West",
+      "district": "Imphal West",
+      "notes": ""
+    },
+    {
+      "code": "MN-02",
+      "state_code": "MN",
+      "state": "Manipur",
+      "office": "Churachandpur",
+      "district": "Churachandpur",
+      "notes": ""
+    },
+    {
+      "code": "MN-03",
+      "state_code": "MN",
+      "state": "Manipur",
+      "office": "Kangpokpi",
+      "district": "Kangpokpi",
+      "notes": ""
+    },
+    {
+      "code": "MN-04",
+      "state_code": "MN",
+      "state": "Manipur",
+      "office": "Thoubal",
+      "district": "Thoubal",
+      "notes": ""
+    },
+    {
+      "code": "MN-05",
+      "state_code": "MN",
+      "state": "Manipur",
+      "office": "Bishnupur",
+      "district": "Bishnupur",
+      "notes": ""
+    },
+    {
+      "code": "MN-06",
+      "state_code": "MN",
+      "state": "Manipur",
+      "office": "Imphal East",
+      "district": "Imphal East",
+      "notes": ""
+    },
+    {
+      "code": "MN-07",
+      "state_code": "MN",
+      "state": "Manipur",
+      "office": "Ukhrul",
+      "district": "Ukhrul",
+      "notes": ""
+    },
+    {
+      "code": "MN-08",
+      "state_code": "MN",
+      "state": "Manipur",
+      "office": "Senapati",
+      "district": "Senapati",
+      "notes": ""
+    }
+  ]
+}
