@@ -1,0 +1,271 @@
+{
+  "state_code": "AS",
+  "state": "Assam",
+  "count": 33,
+  "codes": [
+    {
+      "code": "AS-01",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Guwahati",
+      "district": "Kamrup district",
+      "notes": ""
+    },
+    {
+      "code": "AS-02",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Nagaon",
+      "district": "Nagaon district",
+      "notes": ""
+    },
+    {
+      "code": "AS-03",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Jorhat",
+      "district": "Jorhat district",
+      "notes": ""
+    },
+    {
+      "code": "AS-04",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Sivasagar",
+      "district": "Sivasagar district",
+      "notes": ""
+    },
+    {
+      "code": "AS-05",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Golaghat",
+      "district": "Golaghat district",
+      "notes": ""
+    },
+    {
+      "code": "AS-06",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Dibrugarh",
+      "district": "Dibrugarh district",
+      "notes": ""
+    },
+    {
+      "code": "AS-07",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Lakhimpur",
+      "district": "Lakhimpur district",
+      "notes": ""
+    },
+    {
+      "code": "AS-08",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Haflong",
+      "district": "Dima Hasao district",
+      "notes": ""
+    },
+    {
+      "code": "AS-09",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Karbi Anglong",
+      "district": "Karbi Anglong district",
+      "notes": ""
+    },
+    {
+      "code": "AS-10",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Karimganj",
+      "district": "Karimganj district",
+      "notes": ""
+    },
+    {
+      "code": "AS-11",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Silchar",
+      "district": "Cachar district",
+      "notes": ""
+    },
+    {
+      "code": "AS-12",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Tezpur",
+      "district": "Sonitpur district",
+      "notes": ""
+    },
+    {
+      "code": "AS-13",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Darrang",
+      "district": "Darrang district",
+      "notes": ""
+    },
+    {
+      "code": "AS-14",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Nalbari",
+      "district": "Nalbari district",
+      "notes": ""
+    },
+    {
+      "code": "AS-15",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Barpeta",
+      "district": "Barpeta district",
+      "notes": ""
+    },
+    {
+      "code": "AS-16",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Kokrajhar",
+      "district": "Kokrajhar district",
+      "notes": ""
+    },
+    {
+      "code": "AS-17",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Dhubri",
+      "district": "Dhubri district",
+      "notes": ""
+    },
+    {
+      "code": "AS-18",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Goalpara",
+      "district": "Goalpara district",
+      "notes": ""
+    },
+    {
+      "code": "AS-19",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Bongaigaon",
+      "district": "Bongaigaon district",
+      "notes": ""
+    },
+    {
+      "code": "AS-20",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "entire Assam State",
+      "district": "entire Assam State",
+      "notes": "Vehicles of Assam State Transport Corporation"
+    },
+    {
+      "code": "AS-21",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Morigaon",
+      "district": "Morigaon district",
+      "notes": ""
+    },
+    {
+      "code": "AS-22",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Dhemaji",
+      "district": "Dhemaji district",
+      "notes": ""
+    },
+    {
+      "code": "AS-23",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Tinsukia",
+      "district": "Tinsukia district",
+      "notes": ""
+    },
+    {
+      "code": "AS-24",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Hailakandi",
+      "district": "Hailakandi district",
+      "notes": ""
+    },
+    {
+      "code": "AS-25",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Kamrup",
+      "district": "Kamrup district",
+      "notes": ""
+    },
+    {
+      "code": "AS-26",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Kajalgaon",
+      "district": "Chirang district",
+      "notes": ""
+    },
+    {
+      "code": "AS-27",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Udalguri",
+      "district": "Udalguri district",
+      "notes": ""
+    },
+    {
+      "code": "AS-29",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Majuli",
+      "district": "Majuli district",
+      "notes": ""
+    },
+    {
+      "code": "AS-30",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Assam Police",
+      "district": "Assam Police",
+      "notes": ""
+    },
+    {
+      "code": "AS-31",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Hojai",
+      "district": "Hojai district",
+      "notes": ""
+    },
+    {
+      "code": "AS-32",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Biswanath Chariali",
+      "district": "Biswanath district",
+      "notes": ""
+    },
+    {
+      "code": "AS-33",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Charaideo",
+      "district": "Charaideo district",
+      "notes": ""
+    },
+    {
+      "code": "AS-34",
+      "state_code": "AS",
+      "state": "Assam",
+      "office": "Hatsingimari",
+      "district": "South Salmara-Mankachar district",
+      "notes": ""
+    }
+  ]
+}

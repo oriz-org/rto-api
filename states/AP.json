@@ -1,0 +1,164 @@
+{
+  "state_code": "AP",
+  "state": "Andhra Pradesh",
+  "count": 16,
+  "codes": [
+    {
+      "code": "AP-39",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "RTA",
+      "districts": [
+        "Tirupati district",
+        "Krishna district",
+        "NTR district",
+        "Vizianagaram district",
+        "Visakhapatnam district",
+        "Alluri Sitharama Raju district",
+        "Anakapalli district",
+        "Kakinada district",
+        "East Godavari district",
+        "Konaseema district",
+        "Eluru district",
+        "West Godavari district",
+        "Palnadu district",
+        "Guntur district",
+        "Bapatla district",
+        "Prakasam district",
+        "Sri Potti Sriramulu Nellore district",
+        "Kurnool district",
+        "Nandyal district",
+        "Anantapur district",
+        "Sri Sathya Sai district",
+        "YSR district",
+        "Annamayya district",
+        "Parvathipuram Manyam district",
+        "Srikakulam district",
+        "Chittoor district"
+      ],
+      "notes": "One state-one code policy from Feb 2019. APSRTC vehicles use Z series; Police vehicles use P series."
+    },
+    {
+      "code": "AP-40",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "RTA",
+      "districts": [
+        "Entire Andhra Pradesh"
+      ],
+      "notes": "New series launched 2023 under one state-one code policy."
+    },
+    {
+      "code": "AP-02",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Ananthapuramu District",
+      "notes": "Older series pre-2019"
+    },
+    {
+      "code": "AP-03",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Chittoor District",
+      "notes": "Older series pre-2019"
+    },
+    {
+      "code": "AP-04",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "YSR Kadapa District",
+      "notes": "Older series pre-2019"
+    },
+    {
+      "code": "AP-05",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "Kakinada",
+      "district": "East Godavari District",
+      "notes": "Older series pre-2019; RTO at former district HQ"
+    },
+    {
+      "code": "AP-07",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Guntur district",
+      "notes": "Older series pre-2019"
+    },
+    {
+      "code": "AP-16",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "Vijayawada",
+      "district": "Krishna District",
+      "notes": "Older series pre-2019; RTO at former district HQ"
+    },
+    {
+      "code": "AP-18",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Andhra Pradesh Police",
+      "notes": "AP 18 P older series"
+    },
+    {
+      "code": "AP-21",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Kurnool District",
+      "notes": "Older series pre-2019"
+    },
+    {
+      "code": "AP-26",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Nellore District",
+      "notes": "Older series pre-2019"
+    },
+    {
+      "code": "AP-27",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Prakasam District",
+      "notes": "Older series pre-2019"
+    },
+    {
+      "code": "AP-30",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Srikakulam District",
+      "notes": "Older series pre-2019"
+    },
+    {
+      "code": "AP-31",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Vishakhapatnam District",
+      "notes": "AP 32, AP 33, AP 34 also reserved for Vishakhapatnam"
+    },
+    {
+      "code": "AP-35",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "",
+      "district": "Vizianagaram District",
+      "notes": "Older series pre-2019"
+    },
+    {
+      "code": "AP-37",
+      "state_code": "AP",
+      "state": "Andhra Pradesh",
+      "office": "Eluru",
+      "district": "West Godavari District",
+      "notes": "Older series pre-2019; RTO at former district HQ"
+    }
+  ]
+}

@@ -7,7 +7,7 @@ const { STATE_NAMES, RAW } = require('./build.cjs');
 const rest = require('./data2.cjs');
 
 const ROOT = path.resolve(__dirname, '..');
-const OUT = path.join(ROOT, 'public');
+const OUT = ROOT; // write JSON to repo root; npm run prebuild mirrors into public/ for Astro
 const CODES_DIR = path.join(OUT, 'codes');
 const STATES_DIR = path.join(OUT, 'states');
 

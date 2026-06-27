@@ -1,0 +1,87 @@
+{
+  "state_code": "NL",
+  "state": "Nagaland",
+  "count": 10,
+  "codes": [
+    {
+      "code": "NL-01",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "Kohima",
+      "district": "Kohima District",
+      "notes": ""
+    },
+    {
+      "code": "NL-02",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "Mokokchung District",
+      "district": "Mokokchung District",
+      "notes": ""
+    },
+    {
+      "code": "NL-03",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "Tuensang District",
+      "district": "Tuensang District",
+      "notes": ""
+    },
+    {
+      "code": "NL-04",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "Mon District",
+      "district": "Mon District",
+      "notes": ""
+    },
+    {
+      "code": "NL-05",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "Wokha District",
+      "district": "Wokha District",
+      "notes": ""
+    },
+    {
+      "code": "NL-06",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "Zünheboto District",
+      "district": "Zünheboto District",
+      "notes": ""
+    },
+    {
+      "code": "NL-07",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "Chümoukedima/Dimapur/Niuland",
+      "district": "Chümoukedima District, Dimapur District, Niuland District",
+      "notes": ""
+    },
+    {
+      "code": "NL-08",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "Phek District",
+      "district": "Phek District",
+      "notes": ""
+    },
+    {
+      "code": "NL-09",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "entire Nagaland",
+      "district": "entire Nagaland",
+      "notes": "Government of Nagaland vehicles (Non-Transport)"
+    },
+    {
+      "code": "NL-10",
+      "state_code": "NL",
+      "state": "Nagaland",
+      "office": "entire Nagaland",
+      "district": "entire Nagaland",
+      "notes": "Government of Nagaland vehicles (Transport)"
+    }
+  ]
+}

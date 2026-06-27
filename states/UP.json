@@ -1,0 +1,607 @@
+{
+  "state_code": "UP",
+  "state": "Uttar Pradesh",
+  "count": 75,
+  "codes": [
+    {
+      "code": "UP-11",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Saharanpur",
+      "district": "Saharanpur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-12",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Muzaffarnagar",
+      "district": "Muzaffarnagar district",
+      "notes": ""
+    },
+    {
+      "code": "UP-13",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Bulandshahr",
+      "district": "Bulandshahr district",
+      "notes": ""
+    },
+    {
+      "code": "UP-14",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Ghaziabad",
+      "district": "Ghaziabad district",
+      "notes": ""
+    },
+    {
+      "code": "UP-15",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Meerut",
+      "district": "Meerut district",
+      "notes": ""
+    },
+    {
+      "code": "UP-16",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Noida",
+      "district": "Gautam Buddha Nagar district",
+      "notes": ""
+    },
+    {
+      "code": "UP-17",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Baghpat",
+      "district": "Bagpat district",
+      "notes": ""
+    },
+    {
+      "code": "UP-19",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Shamli",
+      "district": "Shamli district",
+      "notes": ""
+    },
+    {
+      "code": "UP-20",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Bijnor",
+      "district": "Bijnor district",
+      "notes": ""
+    },
+    {
+      "code": "UP-21",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Moradabad",
+      "district": "Moradabad district",
+      "notes": "21G government, 21N commercial"
+    },
+    {
+      "code": "UP-22",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Rampur",
+      "district": "Rampur district",
+      "notes": "22G government, 22T commercial"
+    },
+    {
+      "code": "UP-23",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Amroha",
+      "district": "Amroha district",
+      "notes": ""
+    },
+    {
+      "code": "UP-24",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Badaun",
+      "district": "Badaun district",
+      "notes": ""
+    },
+    {
+      "code": "UP-25",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Bareilly",
+      "district": "Bareilly district",
+      "notes": ""
+    },
+    {
+      "code": "UP-26",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Pilibhit",
+      "district": "Pilibhit district",
+      "notes": ""
+    },
+    {
+      "code": "UP-27",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Shahjahanpur",
+      "district": "Shahjahanpur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-30",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Hardoi",
+      "district": "Hardoi district",
+      "notes": ""
+    },
+    {
+      "code": "UP-31",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Lakhimpur",
+      "district": "Lakhimpur Kheri district",
+      "notes": ""
+    },
+    {
+      "code": "UP-32",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Lucknow",
+      "district": "Lucknow district",
+      "notes": ""
+    },
+    {
+      "code": "UP-33",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Raebareli",
+      "district": "Raebareli district",
+      "notes": ""
+    },
+    {
+      "code": "UP-34",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Sitapur",
+      "district": "Sitapur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-35",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Unnao",
+      "district": "Unnao district",
+      "notes": ""
+    },
+    {
+      "code": "UP-36",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Amethi",
+      "district": "Amethi district",
+      "notes": ""
+    },
+    {
+      "code": "UP-37",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Hapur",
+      "district": "Hapur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-38",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Bahjoi",
+      "district": "Sambhal district",
+      "notes": ""
+    },
+    {
+      "code": "UP-40",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Bahraich",
+      "district": "Bahraich district",
+      "notes": ""
+    },
+    {
+      "code": "UP-41",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Barabanki",
+      "district": "Barabanki district",
+      "notes": ""
+    },
+    {
+      "code": "UP-42",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Ayodhya",
+      "district": "Ayodhya district",
+      "notes": ""
+    },
+    {
+      "code": "UP-43",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Gonda",
+      "district": "Gonda district",
+      "notes": ""
+    },
+    {
+      "code": "UP-44",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Sultanpur",
+      "district": "Sultanpur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-45",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Akbarpur",
+      "district": "Ambedkar Nagar",
+      "notes": ""
+    },
+    {
+      "code": "UP-46",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Shravasti",
+      "district": "Shravasti district",
+      "notes": ""
+    },
+    {
+      "code": "UP-47",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Balrampur",
+      "district": "Balrampur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-50",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Azamgarh",
+      "district": "Azamgarh district",
+      "notes": ""
+    },
+    {
+      "code": "UP-51",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Basti",
+      "district": "Basti district",
+      "notes": ""
+    },
+    {
+      "code": "UP-52",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Deoria",
+      "district": "Deoria district",
+      "notes": ""
+    },
+    {
+      "code": "UP-53",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Gorakhpur",
+      "district": "Gorakhpur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-54",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Mau",
+      "district": "Mau district",
+      "notes": ""
+    },
+    {
+      "code": "UP-55",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Siddharthnagar",
+      "district": "Siddharth Nagar",
+      "notes": ""
+    },
+    {
+      "code": "UP-56",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Maharajganj",
+      "district": "Maharajganj district",
+      "notes": ""
+    },
+    {
+      "code": "UP-57",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Padrauna",
+      "district": "Kushinagar district",
+      "notes": ""
+    },
+    {
+      "code": "UP-58",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Khalilabad",
+      "district": "Sant Kabir Nagar",
+      "notes": ""
+    },
+    {
+      "code": "UP-60",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Ballia",
+      "district": "Ballia district",
+      "notes": ""
+    },
+    {
+      "code": "UP-61",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Ghazipur",
+      "district": "Ghazipur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-62",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Jaunpur",
+      "district": "Jaunpur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-63",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Mirzapur",
+      "district": "Mirzapur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-64",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Robertsganj",
+      "district": "Sonbhadra district",
+      "notes": ""
+    },
+    {
+      "code": "UP-65",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Varanasi",
+      "district": "Varanasi district",
+      "notes": ""
+    },
+    {
+      "code": "UP-66",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Gyanpur",
+      "district": "Bhadohi district",
+      "notes": ""
+    },
+    {
+      "code": "UP-67",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Chandauli",
+      "district": "Chandauli district",
+      "notes": ""
+    },
+    {
+      "code": "UP-70",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Prayagraj",
+      "district": "Prayagraj district",
+      "notes": ""
+    },
+    {
+      "code": "UP-71",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Fatehpur",
+      "district": "Fatehpur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-72",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Pratapgarh",
+      "district": "Pratapgarh district",
+      "notes": ""
+    },
+    {
+      "code": "UP-73",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Manjhanpur",
+      "district": "Kaushambi",
+      "notes": ""
+    },
+    {
+      "code": "UP-74",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Kannauj",
+      "district": "Kannauj district",
+      "notes": ""
+    },
+    {
+      "code": "UP-75",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Etawah",
+      "district": "Etawah district",
+      "notes": ""
+    },
+    {
+      "code": "UP-76",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Farrukhabad",
+      "district": "Farrukhabad district",
+      "notes": ""
+    },
+    {
+      "code": "UP-77",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Akbarpur",
+      "district": "Kanpur Dehat district",
+      "notes": ""
+    },
+    {
+      "code": "UP-78",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Kanpur",
+      "district": "Kanpur Nagar district",
+      "notes": ""
+    },
+    {
+      "code": "UP-79",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Auraiya",
+      "district": "Auraiya district",
+      "notes": ""
+    },
+    {
+      "code": "UP-80",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Agra",
+      "district": "Agra district",
+      "notes": ""
+    },
+    {
+      "code": "UP-81",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Aligarh",
+      "district": "Aligarh district",
+      "notes": ""
+    },
+    {
+      "code": "UP-82",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Etah",
+      "district": "Etah district",
+      "notes": ""
+    },
+    {
+      "code": "UP-83",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Firozabad",
+      "district": "Firozabad district",
+      "notes": ""
+    },
+    {
+      "code": "UP-84",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Mainpuri",
+      "district": "Mainpuri district",
+      "notes": ""
+    },
+    {
+      "code": "UP-85",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Mathura",
+      "district": "Mathura district",
+      "notes": ""
+    },
+    {
+      "code": "UP-86",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Hathras",
+      "district": "Hathras district",
+      "notes": ""
+    },
+    {
+      "code": "UP-87",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Kasganj",
+      "district": "Kasganj district",
+      "notes": ""
+    },
+    {
+      "code": "UP-90",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Banda",
+      "district": "Banda district",
+      "notes": ""
+    },
+    {
+      "code": "UP-91",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Hamirpur",
+      "district": "Hamirpur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-92",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Jalaun",
+      "district": "Jalaun district",
+      "notes": ""
+    },
+    {
+      "code": "UP-93",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Jhansi",
+      "district": "Jhansi district",
+      "notes": ""
+    },
+    {
+      "code": "UP-94",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Lalitpur",
+      "district": "Lalitpur district",
+      "notes": ""
+    },
+    {
+      "code": "UP-95",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Mahoba",
+      "district": "Mahoba district",
+      "notes": ""
+    },
+    {
+      "code": "UP-96",
+      "state_code": "UP",
+      "state": "Uttar Pradesh",
+      "office": "Chitrakoot Dham",
+      "district": "Chitrakoot district",
+      "notes": ""
+    }
+  ]
+}

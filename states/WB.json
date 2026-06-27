@@ -1,0 +1,799 @@
+{
+  "state_code": "WB",
+  "state": "West Bengal",
+  "count": 99,
+  "codes": [
+    {
+      "code": "WB-01",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Beltala (two wheelers)",
+      "district": "Kolkata district",
+      "notes": "WB-01BB is new series under One RTO One Code initiative"
+    },
+    {
+      "code": "WB-02",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Beltala (four wheelers)",
+      "district": "Kolkata district",
+      "notes": "Discontinued, replaced by WB-01BB"
+    },
+    {
+      "code": "WB-03",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Beltala (commercial goods)",
+      "district": "Kolkata district",
+      "notes": "Discontinued"
+    },
+    {
+      "code": "WB-04",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Beltala (commercial passenger)",
+      "district": "Kolkata district",
+      "notes": ""
+    },
+    {
+      "code": "WB-05",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kasba (commercial)",
+      "district": "Kolkata district",
+      "notes": "WB-05B is the new code under One RTO One Code"
+    },
+    {
+      "code": "WB-06",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kasba (private)",
+      "district": "Kolkata district",
+      "notes": ""
+    },
+    {
+      "code": "WB-07",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Salt Lake (commercial)",
+      "district": "Kolkata district",
+      "notes": ""
+    },
+    {
+      "code": "WB-08",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Salt Lake (private)",
+      "district": "Kolkata district",
+      "notes": ""
+    },
+    {
+      "code": "WB-09",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Behala (commercial)",
+      "district": "Kolkata district",
+      "notes": "Replaced by WB-09B"
+    },
+    {
+      "code": "WB-10",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Behala (private)",
+      "district": "Kolkata district",
+      "notes": "Replaced by WB-09B"
+    },
+    {
+      "code": "WB-11",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Howrah (commercial)",
+      "district": "Howrah district",
+      "notes": "Replaced by WB-11H"
+    },
+    {
+      "code": "WB-12",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Howrah (private)",
+      "district": "Howrah district",
+      "notes": "Replaced by WB-11H"
+    },
+    {
+      "code": "WB-13",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Uluberia (commercial)",
+      "district": "Howrah district",
+      "notes": "Replaced by WB-13B"
+    },
+    {
+      "code": "WB-14",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Uluberia (private)",
+      "district": "Howrah district",
+      "notes": ""
+    },
+    {
+      "code": "WB-15",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Chinsurah (commercial)",
+      "district": "Hooghly district",
+      "notes": "Replaced by WB-15E"
+    },
+    {
+      "code": "WB-16",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Chinsurah (private)",
+      "district": "Hooghly district",
+      "notes": "Replaced by WB-15E"
+    },
+    {
+      "code": "WB-17",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Serampore (commercial)",
+      "district": "Hooghly district",
+      "notes": ""
+    },
+    {
+      "code": "WB-18",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Serampore (private)",
+      "district": "Hooghly district",
+      "notes": ""
+    },
+    {
+      "code": "WB-19",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Alipore (commercial)",
+      "district": "South 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-20",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Alipore (private)",
+      "district": "South 24 Parganas district",
+      "notes": "Discontinued, replaced by WB-19P"
+    },
+    {
+      "code": "WB-21",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Basirhat (commercial)",
+      "district": "North 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-22",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Basirhat (private)",
+      "district": "North 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-23",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Barrackpore (commercial)",
+      "district": "North 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-24",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Barrackpore (private)",
+      "district": "North 24 Parganas district",
+      "notes": "Replaced by WB-23H"
+    },
+    {
+      "code": "WB-25",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Barasat (commercial)",
+      "district": "North 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-26",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Barasat (private)",
+      "district": "North 24 Parganas district",
+      "notes": "Replaced by WB-25N"
+    },
+    {
+      "code": "WB-27",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bangaon (commercial)",
+      "district": "North 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-28",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bangaon (private)",
+      "district": "North 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-29",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Tamluk (commercial)",
+      "district": "Purba Medinipur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-30",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Tamluk (private)",
+      "district": "Purba Medinipur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-31",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Contai (commercial)",
+      "district": "Purba Medinipur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-32",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Contai (private)",
+      "district": "Purba Medinipur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-33",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Medinipur (commercial)",
+      "district": "Paschim Medinipur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-34",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Medinipur (private)",
+      "district": "Paschim Medinipur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-35",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kharagpur (commercial)",
+      "district": "Paschim Medinipur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-36",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kharagpur (private)",
+      "district": "Paschim Medinipur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-37",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Asansol (commercial)",
+      "district": "Paschim Bardhaman district",
+      "notes": ""
+    },
+    {
+      "code": "WB-38",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Asansol (private)",
+      "district": "Paschim Bardhaman district",
+      "notes": ""
+    },
+    {
+      "code": "WB-39",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Durgapur (commercial)",
+      "district": "Paschim Bardhaman district",
+      "notes": "SBSTC buses also registered here"
+    },
+    {
+      "code": "WB-40",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Durgapur (private)",
+      "district": "Paschim Bardhaman district",
+      "notes": ""
+    },
+    {
+      "code": "WB-41",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bardhaman (commercial)",
+      "district": "Purba Bardhaman district",
+      "notes": ""
+    },
+    {
+      "code": "WB-42",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bardhaman (private)",
+      "district": "Purba Bardhaman district",
+      "notes": ""
+    },
+    {
+      "code": "WB-43",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kalna (commercial)",
+      "district": "Purba Bardhaman district",
+      "notes": ""
+    },
+    {
+      "code": "WB-44",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kalna (private)",
+      "district": "Purba Bardhaman district",
+      "notes": ""
+    },
+    {
+      "code": "WB-45",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Rampurhat (commercial)",
+      "district": "Birbhum district",
+      "notes": ""
+    },
+    {
+      "code": "WB-46",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Rampurhat (private)",
+      "district": "Birbhum district",
+      "notes": ""
+    },
+    {
+      "code": "WB-47",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bolpur (commercial)",
+      "district": "Birbhum district",
+      "notes": ""
+    },
+    {
+      "code": "WB-48",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bolpur (private)",
+      "district": "Birbhum district",
+      "notes": ""
+    },
+    {
+      "code": "WB-49",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Jhargram (commercial)",
+      "district": "Jhargram district",
+      "notes": ""
+    },
+    {
+      "code": "WB-50",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Jhargram (private)",
+      "district": "Jhargram district",
+      "notes": ""
+    },
+    {
+      "code": "WB-51",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Krishnanagar (commercial)",
+      "district": "Nadia district",
+      "notes": ""
+    },
+    {
+      "code": "WB-52",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Krishnanagar (private)",
+      "district": "Nadia district",
+      "notes": ""
+    },
+    {
+      "code": "WB-53",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Birbhum (commercial)",
+      "district": "Birbhum district",
+      "notes": ""
+    },
+    {
+      "code": "WB-54",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Birbhum (private)",
+      "district": "Birbhum district",
+      "notes": ""
+    },
+    {
+      "code": "WB-55",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Purulia (commercial)",
+      "district": "Purulia district",
+      "notes": ""
+    },
+    {
+      "code": "WB-56",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Purulia (private)",
+      "district": "Purulia district",
+      "notes": ""
+    },
+    {
+      "code": "WB-57",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Murshidabad (commercial)",
+      "district": "Murshidabad district",
+      "notes": ""
+    },
+    {
+      "code": "WB-58",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Murshidabad (private)",
+      "district": "Murshidabad district",
+      "notes": ""
+    },
+    {
+      "code": "WB-59",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Raiganj (commercial)",
+      "district": "Uttar Dinajpur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-60",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Raiganj (private)",
+      "district": "Uttar Dinajpur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-61",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Balurghat (commercial)",
+      "district": "Dakshin Dinajpur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-62",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Balurghat (private)",
+      "district": "Dakshin Dinajpur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-63",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Cooch Behar (commercial)",
+      "district": "Cooch Behar district",
+      "notes": "NBSTC buses also registered here"
+    },
+    {
+      "code": "WB-64",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Cooch Behar (private)",
+      "district": "Cooch Behar district",
+      "notes": ""
+    },
+    {
+      "code": "WB-65",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Malda City (commercial)",
+      "district": "Malda district",
+      "notes": ""
+    },
+    {
+      "code": "WB-66",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Malda City (private)",
+      "district": "Malda district",
+      "notes": ""
+    },
+    {
+      "code": "WB-67",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bankura (commercial)",
+      "district": "Bankura district",
+      "notes": ""
+    },
+    {
+      "code": "WB-68",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bankura (private)",
+      "district": "Bankura district",
+      "notes": ""
+    },
+    {
+      "code": "WB-69",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Alipurduar (commercial)",
+      "district": "Alipurduar district",
+      "notes": ""
+    },
+    {
+      "code": "WB-70",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Alipurduar (private)",
+      "district": "Alipurduar district",
+      "notes": ""
+    },
+    {
+      "code": "WB-71",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Jalpaiguri (commercial)",
+      "district": "Jalpaiguri district",
+      "notes": ""
+    },
+    {
+      "code": "WB-72",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Jalpaiguri (private)",
+      "district": "Jalpaiguri district",
+      "notes": ""
+    },
+    {
+      "code": "WB-73",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Siliguri (commercial)",
+      "district": "Darjeeling district",
+      "notes": "Replaced by WB-73K"
+    },
+    {
+      "code": "WB-74",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Siliguri (private)",
+      "district": "Darjeeling district",
+      "notes": "Replaced by WB-73K"
+    },
+    {
+      "code": "WB-75",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Katwa",
+      "district": "Purba Bardhaman district",
+      "notes": ""
+    },
+    {
+      "code": "WB-76",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Darjeeling (commercial)",
+      "district": "Darjeeling district",
+      "notes": ""
+    },
+    {
+      "code": "WB-77",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Darjeeling (private)",
+      "district": "Darjeeling district",
+      "notes": ""
+    },
+    {
+      "code": "WB-78",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kalimpong (commercial)",
+      "district": "Kalimpong district",
+      "notes": ""
+    },
+    {
+      "code": "WB-79",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kalimpong (private)",
+      "district": "Kalimpong district",
+      "notes": ""
+    },
+    {
+      "code": "WB-80",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Manbazar",
+      "district": "Purulia district",
+      "notes": ""
+    },
+    {
+      "code": "WB-81",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Raghunathpur (commercial)",
+      "district": "Purulia district",
+      "notes": ""
+    },
+    {
+      "code": "WB-82",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Raghunathpur (private)",
+      "district": "Purulia district",
+      "notes": ""
+    },
+    {
+      "code": "WB-83",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Chanchal (commercial)",
+      "district": "Malda district",
+      "notes": ""
+    },
+    {
+      "code": "WB-84",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Chanchal (private)",
+      "district": "Malda district",
+      "notes": ""
+    },
+    {
+      "code": "WB-85",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Mathabhanga (commercial)",
+      "district": "Cooch Behar district",
+      "notes": ""
+    },
+    {
+      "code": "WB-86",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Mathabhanga (private)",
+      "district": "Cooch Behar district",
+      "notes": ""
+    },
+    {
+      "code": "WB-87",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bishnupur (commercial)",
+      "district": "Bankura district",
+      "notes": ""
+    },
+    {
+      "code": "WB-88",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Bishnupur (private)",
+      "district": "Bankura district",
+      "notes": ""
+    },
+    {
+      "code": "WB-89",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kalyani (commercial)",
+      "district": "Nadia district",
+      "notes": ""
+    },
+    {
+      "code": "WB-90",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kalyani (private)",
+      "district": "Nadia district",
+      "notes": ""
+    },
+    {
+      "code": "WB-91",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Islampur (commercial)",
+      "district": "Uttar Dinajpur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-92",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Islampur (private)",
+      "district": "Uttar Dinajpur district",
+      "notes": ""
+    },
+    {
+      "code": "WB-93",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Jangipur (commercial)",
+      "district": "Murshidabad district",
+      "notes": ""
+    },
+    {
+      "code": "WB-94",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Jangipur (private)",
+      "district": "Murshidabad district",
+      "notes": ""
+    },
+    {
+      "code": "WB-95",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Baruipur (commercial)",
+      "district": "South 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-96",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Baruipur (private)",
+      "district": "South 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-97",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Diamond Harbour (commercial)",
+      "district": "South 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-98",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Canning",
+      "district": "South 24 Parganas district",
+      "notes": ""
+    },
+    {
+      "code": "WB-99",
+      "state_code": "WB",
+      "state": "West Bengal",
+      "office": "Kandi",
+      "district": "Murshidabad district",
+      "notes": ""
+    }
+  ]
+}

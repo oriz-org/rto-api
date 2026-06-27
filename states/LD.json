@@ -1,0 +1,79 @@
+{
+  "state_code": "LD",
+  "state": "Lakshadweep",
+  "count": 9,
+  "codes": [
+    {
+      "code": "LD-01",
+      "state_code": "LD",
+      "state": "Lakshadweep",
+      "office": "Kavaratti",
+      "district": "Kavaratti",
+      "notes": ""
+    },
+    {
+      "code": "LD-02",
+      "state_code": "LD",
+      "state": "Lakshadweep",
+      "office": "Agatti",
+      "district": "Agatti",
+      "notes": ""
+    },
+    {
+      "code": "LD-03",
+      "state_code": "LD",
+      "state": "Lakshadweep",
+      "office": "Amini",
+      "district": "Amini",
+      "notes": ""
+    },
+    {
+      "code": "LD-04",
+      "state_code": "LD",
+      "state": "Lakshadweep",
+      "office": "Androth",
+      "district": "Androth",
+      "notes": ""
+    },
+    {
+      "code": "LD-05",
+      "state_code": "LD",
+      "state": "Lakshadweep",
+      "office": "Kadmat",
+      "district": "Kadmat",
+      "notes": ""
+    },
+    {
+      "code": "LD-06",
+      "state_code": "LD",
+      "state": "Lakshadweep",
+      "office": "Kiltan",
+      "district": "Kiltan",
+      "notes": ""
+    },
+    {
+      "code": "LD-07",
+      "state_code": "LD",
+      "state": "Lakshadweep",
+      "office": "Kalpeni",
+      "district": "Kalpeni",
+      "notes": ""
+    },
+    {
+      "code": "LD-08",
+      "state_code": "LD",
+      "state": "Lakshadweep",
+      "office": "Kalpeni",
+      "district": "Kalpeni",
+      "notes": ""
+    },
+    {
+      "code": "LD-09",
+      "state_code": "LD",
+      "state": "Lakshadweep",
+      "office": "Minicoy",
+      "district": "Minicoy",
+      "notes": ""
+    }
+  ]
+}

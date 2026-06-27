@@ -1,0 +1,247 @@
+{
+  "state_code": "CG",
+  "state": "Chhattisgarh",
+  "count": 30,
+  "codes": [
+    {
+      "code": "CG-01",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "entire Chhattisgarh",
+      "district": "entire Chhattisgarh",
+      "notes": "Governor of Chhattisgarh vehicles"
+    },
+    {
+      "code": "CG-02",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "entire Chhattisgarh",
+      "district": "entire Chhattisgarh",
+      "notes": "Chhattisgarh Government vehicles"
+    },
+    {
+      "code": "CG-03",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "entire Chhattisgarh",
+      "district": "entire Chhattisgarh",
+      "notes": "Chhattisgarh Police vehicles"
+    },
+    {
+      "code": "CG-04",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Raipur",
+      "district": "Raipur district",
+      "notes": ""
+    },
+    {
+      "code": "CG-05",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Dhamtari",
+      "district": "Dhamtari district",
+      "notes": ""
+    },
+    {
+      "code": "CG-06",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Mahasamund",
+      "district": "Mahasamund district",
+      "notes": ""
+    },
+    {
+      "code": "CG-07",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Durg",
+      "district": "Durg district",
+      "notes": ""
+    },
+    {
+      "code": "CG-08",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Rajnandgaon",
+      "district": "Rajnandgaon district",
+      "notes": ""
+    },
+    {
+      "code": "CG-09",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Kawardha",
+      "district": "Kabirdham district",
+      "notes": ""
+    },
+    {
+      "code": "CG-10",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Bilaspur",
+      "district": "Bilaspur district",
+      "notes": ""
+    },
+    {
+      "code": "CG-11",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Janjgir",
+      "district": "Janjgir-Champa district",
+      "notes": ""
+    },
+    {
+      "code": "CG-12",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Korba",
+      "district": "Korba district",
+      "notes": ""
+    },
+    {
+      "code": "CG-13",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Raigarh",
+      "district": "Raigarh district",
+      "notes": ""
+    },
+    {
+      "code": "CG-14",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Jashpur Nagar",
+      "district": "Jashpur district",
+      "notes": ""
+    },
+    {
+      "code": "CG-15",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Ambikapur",
+      "district": "Surguja district",
+      "notes": ""
+    },
+    {
+      "code": "CG-16",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Baikunthpur",
+      "district": "Koriya district",
+      "notes": ""
+    },
+    {
+      "code": "CG-17",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Jagdalpur",
+      "district": "Bastar district",
+      "notes": ""
+    },
+    {
+      "code": "CG-18",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Dantewada",
+      "district": "Dantewada district",
+      "notes": ""
+    },
+    {
+      "code": "CG-19",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Kanker",
+      "district": "Kanker district",
+      "notes": ""
+    },
+    {
+      "code": "CG-20",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Bijapur",
+      "district": "Bijapur district",
+      "notes": ""
+    },
+    {
+      "code": "CG-21",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Narayanpur",
+      "district": "Narayanpur district",
+      "notes": ""
+    },
+    {
+      "code": "CG-22",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Baloda Bazar",
+      "district": "Baloda Bazar district",
+      "notes": ""
+    },
+    {
+      "code": "CG-23",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Gariaband",
+      "district": "Gariaband district",
+      "notes": ""
+    },
+    {
+      "code": "CG-24",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Balod",
+      "district": "Balod district",
+      "notes": ""
+    },
+    {
+      "code": "CG-25",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Bemetara",
+      "district": "Bemetara district",
+      "notes": ""
+    },
+    {
+      "code": "CG-26",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Sukma",
+      "district": "Sukma district",
+      "notes": ""
+    },
+    {
+      "code": "CG-27",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Kondagaon",
+      "district": "Kondagaon district",
+      "notes": ""
+    },
+    {
+      "code": "CG-28",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Mungeli",
+      "district": "Mungeli district",
+      "notes": ""
+    },
+    {
+      "code": "CG-29",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Surajpur",
+      "district": "Surajpur district",
+      "notes": ""
+    },
+    {
+      "code": "CG-30",
+      "state_code": "CG",
+      "state": "Chhattisgarh",
+      "office": "Balrampur",
+      "district": "Balrampur district",
+      "notes": ""
+    }
+  ]
+}

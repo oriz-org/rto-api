@@ -1,0 +1,311 @@
+{
+  "state_code": "TG",
+  "state": "Telangana",
+  "count": 38,
+  "codes": [
+    {
+      "code": "TG-01",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Adilabad",
+      "district": "Adilabad district",
+      "notes": ""
+    },
+    {
+      "code": "TG-02",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Karimnagar",
+      "district": "Karimnagar district",
+      "notes": ""
+    },
+    {
+      "code": "TG-03",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Warangal",
+      "district": "Hanamkonda district",
+      "notes": ""
+    },
+    {
+      "code": "TG-04",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Khammam",
+      "district": "Khammam district",
+      "notes": ""
+    },
+    {
+      "code": "TG-05",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Nalgonda",
+      "district": "Nalgonda district",
+      "notes": ""
+    },
+    {
+      "code": "TG-06",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Mahbubnagar",
+      "district": "Mahbubnagar district",
+      "notes": ""
+    },
+    {
+      "code": "TG-07",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Attapur (Hyderabad)",
+      "district": "Ranga Reddy",
+      "notes": ""
+    },
+    {
+      "code": "TG-08",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Medchal (Hyderabad)",
+      "district": "Medchal-Malkajgiri District",
+      "notes": ""
+    },
+    {
+      "code": "TG-09",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Khairtabad (Hyderabad)",
+      "district": "Hyderabad Central",
+      "notes": ""
+    },
+    {
+      "code": "TG-10",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Secunderabad (Hyderabad)",
+      "district": "Hyderabad North",
+      "notes": ""
+    },
+    {
+      "code": "TG-11",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Malakpet (Hyderabad)",
+      "district": "Hyderabad East",
+      "notes": ""
+    },
+    {
+      "code": "TG-12",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Kishanbagh (Hyderabad)",
+      "district": "Hyderabad South",
+      "notes": ""
+    },
+    {
+      "code": "TG-13",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Tolichowki (Hyderabad)",
+      "district": "Hyderabad West",
+      "notes": ""
+    },
+    {
+      "code": "TG-14",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Hyderabad",
+      "district": "Hyderabad",
+      "notes": "Reserved for Hyderabad"
+    },
+    {
+      "code": "TG-15",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Sangareddy",
+      "district": "Sangareddy district",
+      "notes": ""
+    },
+    {
+      "code": "TG-16",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Nizamabad",
+      "district": "Nizamabad district",
+      "notes": ""
+    },
+    {
+      "code": "TG-17",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Kamareddy",
+      "district": "Kamareddy district",
+      "notes": ""
+    },
+    {
+      "code": "TG-18",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Nirmal",
+      "district": "Nirmal district",
+      "notes": ""
+    },
+    {
+      "code": "TG-19",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Mancherial",
+      "district": "Mancherial district",
+      "notes": ""
+    },
+    {
+      "code": "TG-20",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Asifabad",
+      "district": "Komaram Bheem district",
+      "notes": ""
+    },
+    {
+      "code": "TG-21",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Jagtial",
+      "district": "Jagtial district",
+      "notes": ""
+    },
+    {
+      "code": "TG-22",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Peddapalli",
+      "district": "Peddapalli district",
+      "notes": ""
+    },
+    {
+      "code": "TG-23",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Sircilla",
+      "district": "Sircilla district",
+      "notes": ""
+    },
+    {
+      "code": "TG-24",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Warangal",
+      "district": "Warangal district",
+      "notes": ""
+    },
+    {
+      "code": "TG-25",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Bhupalpalle",
+      "district": "Jayashankar Bhupalpally district",
+      "notes": ""
+    },
+    {
+      "code": "TG-26",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Mahabubabad",
+      "district": "Mahabubabad district",
+      "notes": ""
+    },
+    {
+      "code": "TG-27",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Jangaon",
+      "district": "Jangaon district",
+      "notes": ""
+    },
+    {
+      "code": "TG-28",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Kothagudem",
+      "district": "Bhadradri Kothagudem district",
+      "notes": ""
+    },
+    {
+      "code": "TG-29",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Suryapet",
+      "district": "Suryapet district",
+      "notes": ""
+    },
+    {
+      "code": "TG-30",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Bhuvanagiri",
+      "district": "Yadadri Bhuvanagiri district",
+      "notes": "Hyderabad Border District"
+    },
+    {
+      "code": "TG-31",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Nagarkurnool",
+      "district": "Nagarkurnool district",
+      "notes": ""
+    },
+    {
+      "code": "TG-32",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Wanaparthy",
+      "district": "Wanaparthy district",
+      "notes": ""
+    },
+    {
+      "code": "TG-33",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Gadwal",
+      "district": "Jogulamba Gadwal district",
+      "notes": ""
+    },
+    {
+      "code": "TG-34",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Vikarabad",
+      "district": "Vikarabad district",
+      "notes": ""
+    },
+    {
+      "code": "TG-35",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Medak",
+      "district": "Medak district",
+      "notes": ""
+    },
+    {
+      "code": "TG-36",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Siddipet",
+      "district": "Siddipet district",
+      "notes": ""
+    },
+    {
+      "code": "TG-37",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Mulugu",
+      "district": "Mulugu district",
+      "notes": ""
+    },
+    {
+      "code": "TG-38",
+      "state_code": "TG",
+      "state": "Telangana",
+      "office": "Narayanpet",
+      "district": "Narayanpet district",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,799 @@
+{
+  "state_code": "HR",
+  "state": "Haryana",
+  "count": 99,
+  "codes": [
+    {
+      "code": "HR-01",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Ambala",
+      "district": "Ambala district",
+      "notes": ""
+    },
+    {
+      "code": "HR-02",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Jagadhari",
+      "district": "Yamunanagar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-03",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Panchkula",
+      "district": "Panchkula district",
+      "notes": ""
+    },
+    {
+      "code": "HR-04",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Naraingarh",
+      "district": "Ambala district",
+      "notes": ""
+    },
+    {
+      "code": "HR-05",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Karnal",
+      "district": "Karnal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-06",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Panipat",
+      "district": "Panipat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-07",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Thanesar",
+      "district": "Kurukshetra district",
+      "notes": ""
+    },
+    {
+      "code": "HR-08",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Kaithal",
+      "district": "Kaithal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-09",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Guhla",
+      "district": "Kaithal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-10",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Sonipat",
+      "district": "Sonipat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-11",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Gohana",
+      "district": "Sonipat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-12",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Rohtak",
+      "district": "Rohtak district",
+      "notes": ""
+    },
+    {
+      "code": "HR-13",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Bahadurgarh",
+      "district": "Jhajjar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-14",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Jhajjar",
+      "district": "Jhajjar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-15",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Meham",
+      "district": "Rohtak district",
+      "notes": ""
+    },
+    {
+      "code": "HR-16",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Bhiwani",
+      "district": "Bhiwani district",
+      "notes": ""
+    },
+    {
+      "code": "HR-17",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Siwani",
+      "district": "Bhiwani district",
+      "notes": ""
+    },
+    {
+      "code": "HR-18",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Loharu",
+      "district": "Bhiwani district",
+      "notes": ""
+    },
+    {
+      "code": "HR-19",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Charkhi Dadri",
+      "district": "Charkhi Dadri district",
+      "notes": ""
+    },
+    {
+      "code": "HR-20",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Hisar",
+      "district": "Hisar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-21",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Hansi",
+      "district": "Hisar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-22",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Fatehabad",
+      "district": "Fatehabad district",
+      "notes": ""
+    },
+    {
+      "code": "HR-23",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Tohana",
+      "district": "Fatehabad district",
+      "notes": ""
+    },
+    {
+      "code": "HR-24",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Sirsa",
+      "district": "Sirsa district",
+      "notes": ""
+    },
+    {
+      "code": "HR-25",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Mandi Dabwali",
+      "district": "Sirsa district",
+      "notes": ""
+    },
+    {
+      "code": "HR-26",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Gurugram (North)",
+      "district": "Gurugram district",
+      "notes": ""
+    },
+    {
+      "code": "HR-27",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Nuh",
+      "district": "Mewat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-28",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Ferozepur Jhirka",
+      "district": "Mewat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-29",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Ballabgarh",
+      "district": "Faridabad district",
+      "notes": ""
+    },
+    {
+      "code": "HR-30",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Palwal",
+      "district": "Palwal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-31",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Jind",
+      "district": "Jind district",
+      "notes": ""
+    },
+    {
+      "code": "HR-32",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Narwana",
+      "district": "Jind district",
+      "notes": ""
+    },
+    {
+      "code": "HR-33",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Safidon",
+      "district": "Jind district",
+      "notes": ""
+    },
+    {
+      "code": "HR-34",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Mahendragarh",
+      "district": "Mahendragarh district",
+      "notes": ""
+    },
+    {
+      "code": "HR-35",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Narnaul",
+      "district": "Mahendragarh district",
+      "notes": ""
+    },
+    {
+      "code": "HR-36",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Rewari",
+      "district": "Rewari district",
+      "notes": ""
+    },
+    {
+      "code": "HR-37",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Ambala",
+      "district": "Ambala district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-38",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Faridabad",
+      "district": "Faridabad district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-39",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Hisar",
+      "district": "Hisar district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-40",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Assandh",
+      "district": "Karnal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-41",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Pehowa",
+      "district": "Kurukshetra district",
+      "notes": ""
+    },
+    {
+      "code": "HR-42",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Ganaur",
+      "district": "Sonipat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-43",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Kosli",
+      "district": "Rewari district",
+      "notes": ""
+    },
+    {
+      "code": "HR-44",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Ellenabad",
+      "district": "Sirsa district",
+      "notes": ""
+    },
+    {
+      "code": "HR-45",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Karnal",
+      "district": "Karnal district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-46",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Rohtak",
+      "district": "Rohtak district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-47",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Rewari",
+      "district": "Rewari district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-48",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Tosham",
+      "district": "Bhiwani district",
+      "notes": ""
+    },
+    {
+      "code": "HR-49",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Kalka",
+      "district": "Panchkula district",
+      "notes": ""
+    },
+    {
+      "code": "HR-50",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Hodal",
+      "district": "Palwal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-51",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Faridabad (North)",
+      "district": "Faridabad district",
+      "notes": ""
+    },
+    {
+      "code": "HR-52",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Hathin",
+      "district": "Palwal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-53",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Adampur",
+      "district": "Hisar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-54",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Barara",
+      "district": "Ambala district",
+      "notes": ""
+    },
+    {
+      "code": "HR-55",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Gurugram",
+      "district": "Gurugram district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-56",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Jind",
+      "district": "Jind district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-57",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Sirsa",
+      "district": "Sirsa district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-58",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Yamunanagar",
+      "district": "Yamunanagar district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-59",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Ratia",
+      "district": "Fatehabad district",
+      "notes": ""
+    },
+    {
+      "code": "HR-60",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Samalkha",
+      "district": "Panipat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-61",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Bhiwani",
+      "district": "Bhiwani district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-62",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Fatehabad",
+      "district": "Fatehabad district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-63",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Jhajjar",
+      "district": "Jhajjar district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-64",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Kaithal",
+      "district": "Kaithal district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-65",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Kurukshetra",
+      "district": "Kurukshetra district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-66",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Narnaul",
+      "district": "Mahendragarh district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-67",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Panipat",
+      "district": "Panipat district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-68",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Panchkula",
+      "district": "Panchkula district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-69",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Sonipat",
+      "district": "Sonipat district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-70",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Chandigarh",
+      "district": "Special series",
+      "notes": "Transport Commissioner reserved VIP/special demand numbers"
+    },
+    {
+      "code": "HR-71",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Bilaspur",
+      "district": "Yamunanagar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-72",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Sohna",
+      "district": "Gurugram district",
+      "notes": ""
+    },
+    {
+      "code": "HR-73",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Palwal",
+      "district": "Palwal district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-74",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Nuh",
+      "district": "Mewat district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-75",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Indri",
+      "district": "Karnal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-76",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Pataudi",
+      "district": "Gurugram district",
+      "notes": ""
+    },
+    {
+      "code": "HR-77",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Beri",
+      "district": "Jhajjar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-78",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Shahabad Markanda",
+      "district": "Kurukshetra district",
+      "notes": ""
+    },
+    {
+      "code": "HR-79",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Kharkhoda",
+      "district": "Sonipat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-80",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Barwala",
+      "district": "Hisar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-81",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Bawal",
+      "district": "Rewari district",
+      "notes": ""
+    },
+    {
+      "code": "HR-82",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Kanina",
+      "district": "Mahendragarh district",
+      "notes": ""
+    },
+    {
+      "code": "HR-83",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Kalayat",
+      "district": "Kaithal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-84",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Charkhi Dadri",
+      "district": "Charkhi Dadri district",
+      "notes": "Commercial vehicles only"
+    },
+    {
+      "code": "HR-85",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Ambala Cantt",
+      "district": "Ambala district",
+      "notes": ""
+    },
+    {
+      "code": "HR-86",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Narnaund",
+      "district": "Hisar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-87",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Badkhal",
+      "district": "Faridabad district",
+      "notes": ""
+    },
+    {
+      "code": "HR-88",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Badhra",
+      "district": "Charkhi Dadri district",
+      "notes": ""
+    },
+    {
+      "code": "HR-89",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Badli",
+      "district": "Jhajjar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-90",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Uchana",
+      "district": "Jind district",
+      "notes": ""
+    },
+    {
+      "code": "HR-91",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Gharaunda",
+      "district": "Karnal district",
+      "notes": ""
+    },
+    {
+      "code": "HR-92",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Radaur",
+      "district": "Yamunanagar district",
+      "notes": ""
+    },
+    {
+      "code": "HR-93",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Punhana",
+      "district": "Mewat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-94",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Kalanwali",
+      "district": "Sirsa district",
+      "notes": ""
+    },
+    {
+      "code": "HR-95",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Sampla",
+      "district": "Rohtak district",
+      "notes": ""
+    },
+    {
+      "code": "HR-96",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Taoru",
+      "district": "Mewat district",
+      "notes": ""
+    },
+    {
+      "code": "HR-97",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Ladwa",
+      "district": "Kurukshetra district",
+      "notes": ""
+    },
+    {
+      "code": "HR-98",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "Badshahpur (Gurugram South)",
+      "district": "Gurugram district",
+      "notes": ""
+    },
+    {
+      "code": "HR-99",
+      "state_code": "HR",
+      "state": "Haryana",
+      "office": "entire Haryana",
+      "district": "entire Haryana",
+      "notes": "Temporary numbers for new vehicles"
+    }
+  ]
+}

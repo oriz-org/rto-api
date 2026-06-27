@@ -1,0 +1,319 @@
+{
+  "state_code": "GJ",
+  "state": "Gujarat",
+  "count": 39,
+  "codes": [
+    {
+      "code": "GJ-01",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Ahmedabad (West), Subhash Bridge",
+      "district": "Western Ahmedabad District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-02",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Mehsana",
+      "district": "Mehsana District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-03",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Rajkot",
+      "district": "Rajkot District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-04",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Bhavnagar",
+      "district": "Bhavnagar District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-05",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Surat",
+      "district": "Western Surat District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-06",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Vadodara",
+      "district": "Vadodara District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-07",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Nadiad",
+      "district": "Kheda District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-08",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Palanpur",
+      "district": "Banaskantha District and Vav-Tharad District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-09",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Himmatnagar",
+      "district": "Sabarkantha District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-10",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Jamnagar",
+      "district": "Jamnagar District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-11",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Junagadh",
+      "district": "Junagadh District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-12",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Bhuj",
+      "district": "Western Kutch District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-13",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Surendranagar",
+      "district": "Surendranagar District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-14",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Amreli",
+      "district": "Amreli District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-15",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Valsad",
+      "district": "Valsad District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-16",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Bharuch",
+      "district": "Bharuch District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-17",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Godhra",
+      "district": "Panchmahal District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-18",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Gandhinagar",
+      "district": "Gandhinagar District",
+      "notes": "All GSRTC buses are registered here"
+    },
+    {
+      "code": "GJ-19",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Bardoli",
+      "district": "Eastern Surat District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-20",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Dahod",
+      "district": "Dahod District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-21",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Navsari",
+      "district": "Navsari District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-22",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Rajpipla",
+      "district": "Narmada District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-23",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Anand",
+      "district": "Anand District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-24",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Patan",
+      "district": "Patan District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-25",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Porbandar",
+      "district": "Porbandar District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-26",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Vyara",
+      "district": "Tapi District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-27",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Ahmedabad (East), Vastral",
+      "district": "Eastern Ahmedabad District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-28",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Not Allocated",
+      "district": "Reserved for Surat",
+      "notes": ""
+    },
+    {
+      "code": "GJ-29",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Not Allocated",
+      "district": "Reserved for Vadodara",
+      "notes": ""
+    },
+    {
+      "code": "GJ-30",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Ahwa",
+      "district": "Dang District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-31",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Modasa",
+      "district": "Aravalli District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-32",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Veraval",
+      "district": "Gir Somnath District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-33",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Botad",
+      "district": "Botad District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-34",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Chhota Udaipur",
+      "district": "Chhota Udaipur District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-35",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Lunawada",
+      "district": "Mahisagar District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-36",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Morbi",
+      "district": "Morbi District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-37",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Khambhaliya",
+      "district": "Devbhoomi Dwarka District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-38",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Bavla",
+      "district": "Rural Ahmedabad District",
+      "notes": ""
+    },
+    {
+      "code": "GJ-39",
+      "state_code": "GJ",
+      "state": "Gujarat",
+      "office": "Anjar",
+      "district": "Eastern Kutch District",
+      "notes": ""
+    }
+  ]
+}

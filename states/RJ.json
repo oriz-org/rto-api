@@ -1,0 +1,487 @@
+{
+  "state_code": "RJ",
+  "state": "Rajasthan",
+  "count": 60,
+  "codes": [
+    {
+      "code": "RJ-01",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Ajmer",
+      "district": "Ajmer district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-02",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Alwar",
+      "district": "Alwar district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-03",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Banswara",
+      "district": "Banswara district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-04",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Barmer",
+      "district": "Barmer district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-05",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Bharatpur",
+      "district": "Bharatpur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-06",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Bhilwara",
+      "district": "Bhilwara district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-07",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Bikaner",
+      "district": "Bikaner district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-08",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Bundi",
+      "district": "Bundi district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-09",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Chittorgarh",
+      "district": "Chittorgarh district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-10",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Churu",
+      "district": "Churu district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-11",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Dholpur",
+      "district": "Dholpur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-12",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Dungarpur",
+      "district": "Dungarpur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-13",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Sri Ganganagar",
+      "district": "Sri Ganganagar district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-14",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Jaipur (South)",
+      "district": "Jaipur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-15",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Jaisalmer",
+      "district": "Jaisalmer district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-16",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Jalore",
+      "district": "Jalore district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-17",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Jhalawar",
+      "district": "Jhalawar district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-18",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Jhunjhunu",
+      "district": "Jhunjhunu district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-19",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Jodhpur",
+      "district": "Jodhpur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-20",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Kota",
+      "district": "Kota district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-21",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Nagaur",
+      "district": "Nagaur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-22",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Pali",
+      "district": "Pali district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-23",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Sikar",
+      "district": "Sikar district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-24",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Sirohi",
+      "district": "Sirohi district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-25",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Sawai Madhopur",
+      "district": "Sawai Madhopur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-26",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Tonk",
+      "district": "Tonk district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-27",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Udaipur",
+      "district": "Udaipur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-28",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Baran",
+      "district": "Baran district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-29",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Dausa",
+      "district": "Dausa district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-30",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Rajsamand",
+      "district": "Rajsamand district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-31",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Hanumangarh",
+      "district": "Hanumangarh district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-32",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Kotputli",
+      "district": "Kotputli-Behror district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-33",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Ramganj Mandi",
+      "district": "Kota district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-34",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Karauli",
+      "district": "Karauli district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-35",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Pratapgarh",
+      "district": "Pratapgarh district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-36",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Beawar",
+      "district": "Beawar District",
+      "notes": ""
+    },
+    {
+      "code": "RJ-37",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Didwana",
+      "district": "Didwana-Kuchaman district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-38",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Abu Road",
+      "district": "Sirohi district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-39",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Balotra",
+      "district": "Balotra district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-40",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Bhiwadi",
+      "district": "Khairthal-Tijara district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-41",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Chomu",
+      "district": "Jaipur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-42",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Kishangarh",
+      "district": "Ajmer district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-43",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Phalodi",
+      "district": "Phalodi district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-44",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Sujangarh",
+      "district": "Churu district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-45",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Jaipur (North)",
+      "district": "Jaipur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-46",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Bhinmal",
+      "district": "Jalore district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-47",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Dudu",
+      "district": "Jaipur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-48",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Kekri",
+      "district": "Ajmer district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-49",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Nohar",
+      "district": "Hanumangarh district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-50",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Nokha",
+      "district": "Bikaner district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-51",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Shahpura",
+      "district": "Bhilwara district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-52",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Shahpura",
+      "district": "Jaipur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-53",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Khetri",
+      "district": "Jhunjhunu district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-54",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Piparcity",
+      "district": "Jodhpur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-55",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Pokhran",
+      "district": "Jaisalmer district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-56",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Sadulshahar",
+      "district": "Sri Ganganagar district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-57",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Sumerpur",
+      "district": "Pali district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-58",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Salumbar",
+      "district": "Salumbar district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-59",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Shahpura",
+      "district": "Jaipur district",
+      "notes": ""
+    },
+    {
+      "code": "RJ-60",
+      "state_code": "RJ",
+      "state": "Rajasthan",
+      "office": "Jaipur (Additional)",
+      "district": "Jaipur district",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "state_code": "MH",
+  "state": "Maharashtra",
+  "count": 60,
+  "codes": [
+    {
+      "code": "MH-01",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Mumbai Central, Tardeo",
+      "district": "Mumbai City District",
+      "notes": "BEST buses, MCGM, Government vehicles also registered here"
+    },
+    {
+      "code": "MH-02",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Mumbai West, Andheri (W)",
+      "district": "Mumbai Suburban District",
+      "notes": ""
+    },
+    {
+      "code": "MH-03",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Mumbai East, Wadala Truck Terminal",
+      "district": "Mumbai City District",
+      "notes": ""
+    },
+    {
+      "code": "MH-04",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Thane",
+      "district": "Thane",
+      "notes": ""
+    },
+    {
+      "code": "MH-05",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Kalyan",
+      "district": "Thane District",
+      "notes": ""
+    },
+    {
+      "code": "MH-06",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Raigad, Pen",
+      "district": "Raigad",
+      "notes": ""
+    },
+    {
+      "code": "MH-07",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Sindhudurg",
+      "district": "Sindhudurg District",
+      "notes": ""
+    },
+    {
+      "code": "MH-08",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Ratnagiri",
+      "district": "Ratnagiri District",
+      "notes": ""
+    },
+    {
+      "code": "MH-09",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Kolhapur",
+      "district": "Kolhapur",
+      "notes": ""
+    },
+    {
+      "code": "MH-10",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Sangli",
+      "district": "Sangli District",
+      "notes": ""
+    },
+    {
+      "code": "MH-11",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Satara",
+      "district": "Satara",
+      "notes": ""
+    },
+    {
+      "code": "MH-12",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Pune",
+      "district": "Pune",
+      "notes": ""
+    },
+    {
+      "code": "MH-13",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Solapur",
+      "district": "Solapur",
+      "notes": ""
+    },
+    {
+      "code": "MH-14",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Pimpri-Chinchwad",
+      "district": "Pune District",
+      "notes": ""
+    },
+    {
+      "code": "MH-15",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Nashik",
+      "district": "Nashik",
+      "notes": ""
+    },
+    {
+      "code": "MH-16",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Ahilyanagar",
+      "district": "Ahilyanagar",
+      "notes": ""
+    },
+    {
+      "code": "MH-17",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Shrirampur",
+      "district": "Ahilyanagar District",
+      "notes": ""
+    },
+    {
+      "code": "MH-18",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Dhule",
+      "district": "Dhule District",
+      "notes": ""
+    },
+    {
+      "code": "MH-19",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Jalgaon",
+      "district": "Jalgaon",
+      "notes": ""
+    },
+    {
+      "code": "MH-20",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Chhatrapati Sambhaji Nagar",
+      "district": "Chhatrapati Sambhaji Nagar District",
+      "notes": ""
+    },
+    {
+      "code": "MH-21",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Jalna",
+      "district": "Jalna District",
+      "notes": ""
+    },
+    {
+      "code": "MH-22",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Parbhani",
+      "district": "Parbhani District",
+      "notes": ""
+    },
+    {
+      "code": "MH-23",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Beed",
+      "district": "Beed",
+      "notes": ""
+    },
+    {
+      "code": "MH-24",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Latur",
+      "district": "Latur",
+      "notes": ""
+    },
+    {
+      "code": "MH-25",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Dharashiv",
+      "district": "Dharashiv District",
+      "notes": ""
+    },
+    {
+      "code": "MH-26",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Nanded",
+      "district": "Nanded District",
+      "notes": ""
+    },
+    {
+      "code": "MH-27",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Amravati",
+      "district": "Amaravati District",
+      "notes": ""
+    },
+    {
+      "code": "MH-28",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Buldhana",
+      "district": "Buldhana",
+      "notes": ""
+    },
+    {
+      "code": "MH-29",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Yavatmal",
+      "district": "Yavatmal District",
+      "notes": ""
+    },
+    {
+      "code": "MH-30",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Akola",
+      "district": "Akola District",
+      "notes": ""
+    },
+    {
+      "code": "MH-31",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Nagpur West",
+      "district": "Nagpur",
+      "notes": ""
+    },
+    {
+      "code": "MH-32",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Wardha",
+      "district": "Wardha District",
+      "notes": ""
+    },
+    {
+      "code": "MH-33",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Gadchiroli",
+      "district": "Gadchiroli District",
+      "notes": ""
+    },
+    {
+      "code": "MH-34",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Chandrapur",
+      "district": "Chandrapur District",
+      "notes": ""
+    },
+    {
+      "code": "MH-35",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Gondia",
+      "district": "Gondia District",
+      "notes": ""
+    },
+    {
+      "code": "MH-36",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Bhandara",
+      "district": "Bhandara District",
+      "notes": ""
+    },
+    {
+      "code": "MH-37",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Washim",
+      "district": "Washim District",
+      "notes": ""
+    },
+    {
+      "code": "MH-38",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Hingoli",
+      "district": "Hingoli District",
+      "notes": ""
+    },
+    {
+      "code": "MH-39",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Nandurbar",
+      "district": "Nandurbar District",
+      "notes": ""
+    },
+    {
+      "code": "MH-40",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Nagpur Rural",
+      "district": "Nagpur District",
+      "notes": ""
+    },
+    {
+      "code": "MH-41",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Malegaon",
+      "district": "Nashik District",
+      "notes": ""
+    },
+    {
+      "code": "MH-42",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Baramati",
+      "district": "Pune District",
+      "notes": ""
+    },
+    {
+      "code": "MH-43",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Navi Mumbai",
+      "district": "Thane District",
+      "notes": ""
+    },
+    {
+      "code": "MH-44",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Ambajogai",
+      "district": "Beed District",
+      "notes": ""
+    },
+    {
+      "code": "MH-45",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Akluj",
+      "district": "Solapur District",
+      "notes": ""
+    },
+    {
+      "code": "MH-46",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Panvel",
+      "district": "Raigad District",
+      "notes": ""
+    },
+    {
+      "code": "MH-47",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Mumbai North (Borivali)",
+      "district": "Mumbai Suburban District",
+      "notes": ""
+    },
+    {
+      "code": "MH-48",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Vasai",
+      "district": "Palghar",
+      "notes": ""
+    },
+    {
+      "code": "MH-49",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Nagpur East",
+      "district": "Nagpur",
+      "notes": ""
+    },
+    {
+      "code": "MH-50",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Karad",
+      "district": "Satara District",
+      "notes": ""
+    },
+    {
+      "code": "MH-51",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Ichalkaranji",
+      "district": "Kolhapur District",
+      "notes": ""
+    },
+    {
+      "code": "MH-52",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Chalisgaon",
+      "district": "Jalgaon District",
+      "notes": ""
+    },
+    {
+      "code": "MH-53",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Phaltan",
+      "district": "Satara District",
+      "notes": ""
+    },
+    {
+      "code": "MH-54",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Bhadgaon",
+      "district": "Jalgaon District",
+      "notes": ""
+    },
+    {
+      "code": "MH-55",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Udgir",
+      "district": "Latur District",
+      "notes": ""
+    },
+    {
+      "code": "MH-56",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Khamgaon",
+      "district": "Buldhana District",
+      "notes": ""
+    },
+    {
+      "code": "MH-57",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Vaijapur",
+      "district": "Chhatrapati Sambhaji Nagar District",
+      "notes": ""
+    },
+    {
+      "code": "MH-58",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Mira-Bhayander",
+      "district": "Thane District",
+      "notes": ""
+    },
+    {
+      "code": "MH-59",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Jath",
+      "district": "Sangli District",
+      "notes": "Yet to appear on Vahan Website"
+    },
+    {
+      "code": "MH-60",
+      "state_code": "MH",
+      "state": "Maharashtra",
+      "office": "Palghar",
+      "district": "Palghar District",
+      "notes": "Announced, yet to appear on Vahan Website"
+    }
+  ]
+}

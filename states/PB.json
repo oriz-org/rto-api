@@ -1,0 +1,759 @@
+{
+  "state_code": "PB",
+  "state": "Punjab",
+  "count": 94,
+  "codes": [
+    {
+      "code": "PB-01",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Chandigarh",
+      "district": "Punjab",
+      "notes": "Rented cars, self-drive cars in Chandigarh & taxi vehicles from Punjab"
+    },
+    {
+      "code": "PB-02",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Amritsar (1)",
+      "district": "Amritsar",
+      "notes": ""
+    },
+    {
+      "code": "PB-03",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Bathinda",
+      "district": "Bathinda",
+      "notes": ""
+    },
+    {
+      "code": "PB-04",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Faridkot",
+      "district": "Faridkot",
+      "notes": ""
+    },
+    {
+      "code": "PB-05",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Ferozpur",
+      "district": "Ferozpur",
+      "notes": ""
+    },
+    {
+      "code": "PB-06",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Gurdaspur",
+      "district": "Gurdaspur",
+      "notes": ""
+    },
+    {
+      "code": "PB-07",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Hoshiarpur",
+      "district": "Hoshiarpur",
+      "notes": ""
+    },
+    {
+      "code": "PB-08",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Jalandhar (1)",
+      "district": "Jalandhar",
+      "notes": ""
+    },
+    {
+      "code": "PB-09",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Kapurthala",
+      "district": "Kapurthala",
+      "notes": ""
+    },
+    {
+      "code": "PB-10",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Ludhiana (West)",
+      "district": "Ludhiana",
+      "notes": ""
+    },
+    {
+      "code": "PB-11",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Patiala",
+      "district": "Patiala",
+      "notes": ""
+    },
+    {
+      "code": "PB-12",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Rupnagar",
+      "district": "Rupnagar",
+      "notes": ""
+    },
+    {
+      "code": "PB-13",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Sangrur",
+      "district": "Sangrur",
+      "notes": ""
+    },
+    {
+      "code": "PB-14",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Ajnala",
+      "district": "Amritsar",
+      "notes": ""
+    },
+    {
+      "code": "PB-15",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Abohar",
+      "district": "Fazilka",
+      "notes": ""
+    },
+    {
+      "code": "PB-16",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Anandpur Sahib",
+      "district": "Rupnagar",
+      "notes": ""
+    },
+    {
+      "code": "PB-17",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Baba Bakala",
+      "district": "Amritsar",
+      "notes": ""
+    },
+    {
+      "code": "PB-18",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Batala",
+      "district": "Gurdaspur",
+      "notes": ""
+    },
+    {
+      "code": "PB-19",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Barnala",
+      "district": "Barnala",
+      "notes": ""
+    },
+    {
+      "code": "PB-20",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Balachaur",
+      "district": "Shaheed Bhagat Singh Nagar",
+      "notes": ""
+    },
+    {
+      "code": "PB-21",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Dasuya",
+      "district": "Hoshiarpur",
+      "notes": ""
+    },
+    {
+      "code": "PB-22",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Fazilka",
+      "district": "Fazilka",
+      "notes": ""
+    },
+    {
+      "code": "PB-23",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Fatehgarh Sahib",
+      "district": "Fatehgarh Sahib",
+      "notes": ""
+    },
+    {
+      "code": "PB-24",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Garhshankar",
+      "district": "Hoshiarpur",
+      "notes": ""
+    },
+    {
+      "code": "PB-25",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Jagraon",
+      "district": "Ludhiana",
+      "notes": ""
+    },
+    {
+      "code": "PB-26",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Khanna",
+      "district": "Ludhiana",
+      "notes": ""
+    },
+    {
+      "code": "PB-27",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Kharar",
+      "district": "Mohali",
+      "notes": ""
+    },
+    {
+      "code": "PB-28",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Malerkotla",
+      "district": "Malerkotla",
+      "notes": ""
+    },
+    {
+      "code": "PB-29",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Moga",
+      "district": "Moga",
+      "notes": ""
+    },
+    {
+      "code": "PB-30",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Muktsar",
+      "district": "Muktsar",
+      "notes": ""
+    },
+    {
+      "code": "PB-31",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Mansa",
+      "district": "Mansa",
+      "notes": ""
+    },
+    {
+      "code": "PB-32",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Nawanshahar",
+      "district": "Shaheed Bhagat Singh Nagar",
+      "notes": ""
+    },
+    {
+      "code": "PB-33",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Nakodar",
+      "district": "Jalandhar",
+      "notes": ""
+    },
+    {
+      "code": "PB-34",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Nabha",
+      "district": "Patiala",
+      "notes": ""
+    },
+    {
+      "code": "PB-35",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Pathankot",
+      "district": "Pathankot",
+      "notes": ""
+    },
+    {
+      "code": "PB-36",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Phagwara",
+      "district": "Kapurthala",
+      "notes": ""
+    },
+    {
+      "code": "PB-37",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Phillaur",
+      "district": "Jalandhar",
+      "notes": ""
+    },
+    {
+      "code": "PB-38",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Patti",
+      "district": "Tarn Taran",
+      "notes": ""
+    },
+    {
+      "code": "PB-39",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Rajpura",
+      "district": "Patiala",
+      "notes": ""
+    },
+    {
+      "code": "PB-40",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Rampura Phul",
+      "district": "Bathinda",
+      "notes": ""
+    },
+    {
+      "code": "PB-41",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Sultanpur Lodhi",
+      "district": "Kapurthala",
+      "notes": ""
+    },
+    {
+      "code": "PB-42",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Samana",
+      "district": "Patiala",
+      "notes": ""
+    },
+    {
+      "code": "PB-43",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Samrala",
+      "district": "Ludhiana",
+      "notes": ""
+    },
+    {
+      "code": "PB-44",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Sunam",
+      "district": "Sangrur",
+      "notes": ""
+    },
+    {
+      "code": "PB-45",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Talwandi Sabo",
+      "district": "Bathinda",
+      "notes": ""
+    },
+    {
+      "code": "PB-46",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Tarn Taran",
+      "district": "Tarn Taran",
+      "notes": ""
+    },
+    {
+      "code": "PB-47",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Zira",
+      "district": "Ferozpur",
+      "notes": ""
+    },
+    {
+      "code": "PB-48",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Amloh",
+      "district": "Fatehgarh Sahib",
+      "notes": ""
+    },
+    {
+      "code": "PB-49",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Khamanon",
+      "district": "Fatehgarh Sahib",
+      "notes": ""
+    },
+    {
+      "code": "PB-50",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Budhlada",
+      "district": "Mansa",
+      "notes": ""
+    },
+    {
+      "code": "PB-51",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Sardulgarh",
+      "district": "Mansa",
+      "notes": ""
+    },
+    {
+      "code": "PB-52",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Bassi Pathana",
+      "district": "Fatehgarh Sahib",
+      "notes": ""
+    },
+    {
+      "code": "PB-53",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Malout",
+      "district": "Muktsar",
+      "notes": ""
+    },
+    {
+      "code": "PB-54",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Mukerian",
+      "district": "Hoshiarpur",
+      "notes": ""
+    },
+    {
+      "code": "PB-55",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Payal",
+      "district": "Ludhiana",
+      "notes": ""
+    },
+    {
+      "code": "PB-56",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Raikot",
+      "district": "Ludhiana",
+      "notes": ""
+    },
+    {
+      "code": "PB-57",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Bhulath",
+      "district": "Kapurthala",
+      "notes": ""
+    },
+    {
+      "code": "PB-58",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Dera Baba Nanak",
+      "district": "Gurdaspur",
+      "notes": ""
+    },
+    {
+      "code": "PB-59",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Dhuri",
+      "district": "Sangrur",
+      "notes": ""
+    },
+    {
+      "code": "PB-60",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Gidderbaha",
+      "district": "Muktsar",
+      "notes": ""
+    },
+    {
+      "code": "PB-61",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Jalalabad",
+      "district": "Fazilka",
+      "notes": ""
+    },
+    {
+      "code": "PB-62",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Jaitu",
+      "district": "Faridkot",
+      "notes": ""
+    },
+    {
+      "code": "PB-63",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Khadoor Sahib",
+      "district": "Tarn Taran",
+      "notes": ""
+    },
+    {
+      "code": "PB-64",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Moonak",
+      "district": "Sangrur",
+      "notes": ""
+    },
+    {
+      "code": "PB-65",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Mohali",
+      "district": "Mohali",
+      "notes": ""
+    },
+    {
+      "code": "PB-66",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Nihal Singh Wala",
+      "district": "Moga",
+      "notes": ""
+    },
+    {
+      "code": "PB-67",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Shahkot",
+      "district": "Jalandhar",
+      "notes": ""
+    },
+    {
+      "code": "PB-68",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Dhar Kalan",
+      "district": "Pathankot",
+      "notes": ""
+    },
+    {
+      "code": "PB-69",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Bagha Purana",
+      "district": "Moga",
+      "notes": ""
+    },
+    {
+      "code": "PB-70",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Dera Bassi",
+      "district": "Mohali",
+      "notes": ""
+    },
+    {
+      "code": "PB-71",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Chamkaur Sahib",
+      "district": "Rupnagar",
+      "notes": ""
+    },
+    {
+      "code": "PB-72",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Pattran",
+      "district": "Patiala",
+      "notes": ""
+    },
+    {
+      "code": "PB-73",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Tappa Mandi",
+      "district": "Barnala",
+      "notes": ""
+    },
+    {
+      "code": "PB-74",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Nangal",
+      "district": "Rupnagar",
+      "notes": ""
+    },
+    {
+      "code": "PB-75",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Lehragaga",
+      "district": "Sangrur",
+      "notes": ""
+    },
+    {
+      "code": "PB-76",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Dharamkot",
+      "district": "Moga",
+      "notes": ""
+    },
+    {
+      "code": "PB-77",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Guru Har Sahai",
+      "district": "Ferozpur",
+      "notes": ""
+    },
+    {
+      "code": "PB-78",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Banga",
+      "district": "Shaheed Bhagat Singh Nagar",
+      "notes": ""
+    },
+    {
+      "code": "PB-79",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Kotkapura",
+      "district": "Faridkot",
+      "notes": ""
+    },
+    {
+      "code": "PB-80",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Maur",
+      "district": "Bathinda",
+      "notes": ""
+    },
+    {
+      "code": "PB-81",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Majitha",
+      "district": "Amritsar",
+      "notes": ""
+    },
+    {
+      "code": "PB-82",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Ahmedgarh",
+      "district": "Malerkotla",
+      "notes": ""
+    },
+    {
+      "code": "PB-83",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Dudhan Sadhan",
+      "district": "Patiala",
+      "notes": ""
+    },
+    {
+      "code": "PB-84",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Bhawanigarh",
+      "district": "Sangrur",
+      "notes": ""
+    },
+    {
+      "code": "PB-85",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Kalanaur",
+      "district": "Gurdaspur",
+      "notes": ""
+    },
+    {
+      "code": "PB-86",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Dirba",
+      "district": "Sangrur",
+      "notes": ""
+    },
+    {
+      "code": "PB-87",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Morinda",
+      "district": "Rupnagar",
+      "notes": ""
+    },
+    {
+      "code": "PB-88",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Bhikhiwind",
+      "district": "Tarn Taran",
+      "notes": ""
+    },
+    {
+      "code": "PB-89",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Amritsar (2)",
+      "district": "Amritsar",
+      "notes": ""
+    },
+    {
+      "code": "PB-90",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Jalandhar (2)",
+      "district": "Jalandhar",
+      "notes": ""
+    },
+    {
+      "code": "PB-91",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Ludhiana (East)",
+      "district": "Ludhiana",
+      "notes": ""
+    },
+    {
+      "code": "PB-92",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Amargarh",
+      "district": "Malerkotla",
+      "notes": ""
+    },
+    {
+      "code": "PB-93",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Lopoke",
+      "district": "Amritsar",
+      "notes": ""
+    },
+    {
+      "code": "PB-99",
+      "state_code": "PB",
+      "state": "Punjab",
+      "office": "Dinanagar",
+      "district": "Gurdaspur",
+      "notes": ""
+    }
+  ]
+}

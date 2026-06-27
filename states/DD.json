@@ -1,0 +1,31 @@
+{
+  "state_code": "DD",
+  "state": "Dadra and Nagar Haveli and Daman and Diu",
+  "count": 3,
+  "codes": [
+    {
+      "code": "DD-01",
+      "state_code": "DD",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "office": "Silvassa",
+      "district": "Dadra and Nagar Haveli district",
+      "notes": "Previously DN-09, before the UT merger"
+    },
+    {
+      "code": "DD-02",
+      "state_code": "DD",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "office": "Diu",
+      "district": "Diu district",
+      "notes": ""
+    },
+    {
+      "code": "DD-03",
+      "state_code": "DD",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "office": "Daman",
+      "district": "Daman district",
+      "notes": ""
+    }
+  ]
+}
