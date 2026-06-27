@@ -42,9 +42,17 @@ https://cdn.jsdelivr.net/gh/oriz-org/rto-api@main/all.json
 https://raw.githubusercontent.com/oriz-org/rto-api/main/codes/<CODE>.json
 ```
 
-### Via `rto.oriz.in` (coming soon)
+### Via `rto.oriz.in`
 
-A Cloudflare Pages mapping will expose the same files at `https://rto.oriz.in/codes/<CODE>.json`. Not wired yet — use jsDelivr until then.
+The same files are served from Cloudflare Pages at our own domain:
+
+```
+https://rto.oriz.in/codes/<CODE>.json
+https://rto.oriz.in/index.json
+https://rto.oriz.in/all.json
+```
+
+(SSL cert provisioning can take up to 15 minutes after deployment — if you see 522 errors, retry in a few minutes.)
 
 ### Endpoint reference
 
