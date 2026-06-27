@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --color-saffron-50: #fff8ed;
+  --color-saffron-100: #ffeed1;
+  --color-saffron-200: #ffd99e;
+  --color-saffron-300: #ffbd5a;
+  --color-saffron-400: #ffa133;
+  --color-saffron-500: #f5841a;
+  --color-saffron-600: #e36d10;
+  --color-saffron-700: #b85410;
+  --color-saffron-800: #934315;
+  --color-saffron-900: #783914;
+  --color-saffron-950: #421b06;
+}
+
+html {
+  font-feature-settings: "ss01", "cv11";
+}
+
+::selection {
+  background: var(--color-saffron-200);
+  color: var(--color-saffron-900);
+}

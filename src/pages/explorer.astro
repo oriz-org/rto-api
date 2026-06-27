@@ -1,0 +1,136 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Explorer &mdash; Indian RTO Codes" path="/explorer">
+  <section class="mx-auto max-w-5xl px-6 pt-16 pb-8">
+    <p class="font-mono text-xs uppercase tracking-wider text-saffron-600 dark:text-saffron-400">Interactive</p>
+    <h1 class="mt-2 text-4xl font-bold tracking-tight">Live explorer</h1>
+    <p class="mt-3 max-w-2xl text-zinc-600 dark:text-zinc-400">Pick a state, then a code &mdash; the response below is fetched live from this site's own JSON endpoints. No server, no API key.</p>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-6 py-8">
+    <form id="explorer-form" class="grid gap-4 sm:grid-cols-2">
+      <label class="block">
+        <span class="block text-sm font-medium text-zinc-700 dark:text-zinc-300">State</span>
+        <select
+          id="state-select"
+          class="mt-2 w-full rounded-md border border-zinc-300 bg-white px-3 py-2 font-mono text-sm shadow-sm focus:border-saffron-500 focus:outline-none focus:ring-1 focus:ring-saffron-500 dark:border-zinc-700 dark:bg-zinc-900"
+        >
+          <option value="">Loading&hellip;</option>
+        </select>
+      </label>
+      <label class="block">
+        <span class="block text-sm font-medium text-zinc-700 dark:text-zinc-300">Code</span>
+        <select
+          id="code-select"
+          class="mt-2 w-full rounded-md border border-zinc-300 bg-white px-3 py-2 font-mono text-sm shadow-sm focus:border-saffron-500 focus:outline-none focus:ring-1 focus:ring-saffron-500 disabled:opacity-50 dark:border-zinc-700 dark:bg-zinc-900"
+          disabled
+        >
+          <option value="">Pick a state first</option>
+        </select>
+      </label>
+    </form>
+
+    <div class="mt-8">
+      <div class="flex items-center justify-between">
+        <span class="text-xs font-semibold uppercase tracking-wider text-zinc-500 dark:text-zinc-500">Response</span>
+        <a
+          id="endpoint-link"
+          href="#"
+          class="font-mono text-xs text-zinc-600 underline decoration-zinc-400 underline-offset-4 hover:text-saffron-600 dark:text-zinc-400 dark:hover:text-saffron-400"
+          target="_blank"
+          rel="noopener noreferrer"
+        ></a>
+      </div>
+      <pre
+        id="result"
+        class="mt-3 min-h-[200px] overflow-x-auto rounded-md border border-zinc-200 bg-zinc-50 p-4 text-sm dark:border-zinc-800 dark:bg-zinc-900"
+      ><code id="result-code" class="font-mono text-zinc-800 dark:text-zinc-200">Select a code above.</code></pre>
+    </div>
+  </section>
+
+  <script is:inline>
+    (async function () {
+      const stateSelect = document.getElementById('state-select');
+      const codeSelect = document.getElementById('code-select');
+      const resultCode = document.getElementById('result-code');
+      const endpointLink = document.getElementById('endpoint-link');
+
+      function setResult(text, endpoint) {
+        resultCode.textContent = text;
+        if (endpoint) {
+          endpointLink.textContent = endpoint;
+          endpointLink.href = endpoint;
+        } else {
+          endpointLink.textContent = '';
+          endpointLink.removeAttribute('href');
+        }
+      }
+
+      async function loadStates() {
+        try {
+          const res = await fetch('/states.json');
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const states = await res.json();
+          stateSelect.innerHTML = '<option value="">Select a state&hellip;</option>' +
+            states
+              .map((s) => '<option value="' + s.state_code + '">' + s.state_code + ' — ' + s.state + ' (' + s.count + ')</option>')
+              .join('');
+        } catch (err) {
+          stateSelect.innerHTML = '<option value="">Failed to load states.json</option>';
+          setResult('Failed to load /states.json: ' + err.message, '/states.json');
+        }
+      }
+
+      async function loadCodesForState(stateCode) {
+        codeSelect.disabled = true;
+        codeSelect.innerHTML = '<option value="">Loading&hellip;</option>';
+        setResult('Loading /states/' + stateCode + '.json…', '/states/' + stateCode + '.json');
+        try {
+          const res = await fetch('/states/' + stateCode + '.json');
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const data = await res.json();
+          const codes = data.codes || [];
+          codeSelect.innerHTML = '<option value="">Select a code&hellip;</option>' +
+            codes
+              .map((c) => '<option value="' + c.code + '">' + c.code + (c.office ? ' — ' + c.office : '') + '</option>')
+              .join('');
+          codeSelect.disabled = false;
+          setResult(JSON.stringify(data, null, 2), '/states/' + stateCode + '.json');
+        } catch (err) {
+          codeSelect.innerHTML = '<option value="">Error</option>';
+          setResult('Failed to load /states/' + stateCode + '.json: ' + err.message);
+        }
+      }
+
+      async function loadCode(code) {
+        setResult('Loading /codes/' + code + '.json…', '/codes/' + code + '.json');
+        try {
+          const res = await fetch('/codes/' + code + '.json');
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const data = await res.json();
+          setResult(JSON.stringify(data, null, 2), '/codes/' + code + '.json');
+        } catch (err) {
+          setResult('Failed to load /codes/' + code + '.json: ' + err.message);
+        }
+      }
+
+      stateSelect.addEventListener('change', (e) => {
+        const sc = e.target.value;
+        if (sc) {
+          loadCodesForState(sc);
+        } else {
+          codeSelect.disabled = true;
+          codeSelect.innerHTML = '<option value="">Pick a state first</option>';
+          setResult('Select a code above.');
+        }
+      });
+
+      codeSelect.addEventListener('change', (e) => {
+        if (e.target.value) loadCode(e.target.value);
+      });
+
+      await loadStates();
+    })();
+  </script>
+</Layout>

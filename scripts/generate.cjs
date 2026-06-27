@@ -3,12 +3,13 @@
 
 const fs = require('fs');
 const path = require('path');
-const { STATE_NAMES, RAW } = require('./build.js');
-const rest = require('./data2.js');
+const { STATE_NAMES, RAW } = require('./build.cjs');
+const rest = require('./data2.cjs');
 
 const ROOT = path.resolve(__dirname, '..');
-const CODES_DIR = path.join(ROOT, 'codes');
-const STATES_DIR = path.join(ROOT, 'states');
+const OUT = path.join(ROOT, 'public');
+const CODES_DIR = path.join(OUT, 'codes');
+const STATES_DIR = path.join(OUT, 'states');
 
 fs.mkdirSync(CODES_DIR, { recursive: true });
 fs.mkdirSync(STATES_DIR, { recursive: true });
@@ -84,16 +85,16 @@ for (const stateCode of Object.keys(STATE_NAMES)) {
 allRecords.sort((a, b) => a.code.localeCompare(b.code));
 
 const index = allRecords.map((r) => r.code);
-fs.writeFileSync(path.join(ROOT, 'index.json'), JSON.stringify(index) + '\n');
+fs.writeFileSync(path.join(OUT, 'index.json'), JSON.stringify(index) + '\n');
 
-fs.writeFileSync(path.join(ROOT, 'all.json'), JSON.stringify(allRecords, null, 2) + '\n');
+fs.writeFileSync(path.join(OUT, 'all.json'), JSON.stringify(allRecords, null, 2) + '\n');
 
 const statesList = Object.keys(STATE_NAMES).map((sc) => ({
   state_code: sc,
   state: STATE_NAMES[sc],
   count: allRecords.filter((r) => r.state_code === sc).length,
 }));
-fs.writeFileSync(path.join(ROOT, 'states.json'), JSON.stringify(statesList, null, 2) + '\n');
+fs.writeFileSync(path.join(OUT, 'states.json'), JSON.stringify(statesList, null, 2) + '\n');
 
 console.log(`Generated:`);
 console.log(`  ${allRecords.length} code records in codes/`);

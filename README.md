@@ -4,6 +4,8 @@
 
 Part of the [oriz](https://oriz.in) fleet.
 
+**Documentation:** https://rto.oriz.in &middot; **API reference:** https://rto.oriz.in/docs &middot; **Live explorer:** https://rto.oriz.in/explorer
+
 ---
 
 ## What this is
@@ -120,9 +122,29 @@ The build script (`scripts/`) is included so anyone can regenerate the dataset a
 
 ## Contributing
 
-Found a stale code, missing entry, or wrong jurisdiction? Open a PR against `scripts/build.js` or `scripts/data2.js` and re-run `node scripts/generate.js` — the JSON files are generated, not hand-edited.
+Found a stale code, missing entry, or wrong jurisdiction? Open a PR against `scripts/build.cjs` or `scripts/data2.cjs` and re-run `npm run data` &mdash; the JSON files are generated, not hand-edited.
 
 Issues are welcome for data corrections, new states/UT codes, or API shape suggestions.
+
+---
+
+## Deploying / Local development
+
+The site is an Astro static site that produces `dist/`. The dataset lives in `public/` and is copied into `dist/` at build time, so the same Cloudflare Pages deploy serves both HTML pages and JSON endpoints.
+
+```bash
+npm install            # install Astro + Tailwind
+npm run data           # regenerate public/codes/, public/states/, *.json
+npm run dev            # local dev server (http://localhost:4321)
+npm run build          # produce dist/
+npm run preview        # serve dist/
+```
+
+Cloudflare Pages settings (see `DEPLOYMENT.md` for the full setup):
+
+- Build command: `npm run build`
+- Build output directory: `dist`
+- Root directory: `/`
 
 ---
 
