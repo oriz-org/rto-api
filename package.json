@@ -4,16 +4,16 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "node scripts/prebuild.cjs && astro dev",
-    "prebuild": "node scripts/prebuild.cjs",
+    "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "data": "node scripts/generate.cjs && node scripts/prebuild.cjs"
+    "data": "node scripts/generate.cjs"
   },
   "dependencies": {
     "astro": "^5.7.0",
     "@tailwindcss/vite": "^4.1.0",
-    "tailwindcss": "^4.1.0"
+    "tailwindcss": "^4.1.0",
+    "@oriz/api-fleet-template": "github:oriz-org/api-fleet-template"
   }
 }
